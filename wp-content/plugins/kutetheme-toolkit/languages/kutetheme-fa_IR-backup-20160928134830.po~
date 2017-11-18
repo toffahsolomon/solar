@@ -1,0 +1,3413 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KutethemeToolkit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Sep 28 2016 14:30:48 GMT+0330 (Iran Standard Time)\n"
+"PO-Revision-Date: Wed Sep 28 2016 17:18:10 GMT+0330 (Iran Standard Time)\n"
+"Last-Translator: مدیر <asdfsdf@asd.com>\n"
+"Language-Team: \n"
+"Language: Persian\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: fa_IR"
+
+#. Name of the plugin
+msgid "KutethemeToolkit"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://kutethemes.com/demo/kuteshop"
+msgstr ""
+
+#. Description of the plugin
+msgid "A Toolkit for Kute theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "KuteTheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kutethemes.com"
+msgstr ""
+
+#: ../option_post_type.php:34
+msgid "Page Option"
+msgstr ""
+
+#: ../option_post_type.php:38
+msgid "Page Title"
+msgstr ""
+
+#: ../option_post_type.php:39
+msgid "Display of title."
+msgstr ""
+
+#: ../option_post_type.php:44 ../option_post_type.php:55 ../option_post_type.php:
+#: 67 ../js_composer/shortcodes/banner-title.php:30
+msgid "Show"
+msgstr ""
+
+#: ../option_post_type.php:45 ../option_post_type.php:56 ../option_post_type.php:
+#: 68 ../js_composer/shortcodes/banner-title.php:31
+msgid "Hide"
+msgstr ""
+
+#: ../option_post_type.php:49
+msgid "Page breadcrumb"
+msgstr ""
+
+#: ../option_post_type.php:50
+msgid "Display Page breadcrumb."
+msgstr ""
+
+#: ../option_post_type.php:61
+msgid "Page Comment"
+msgstr ""
+
+#: ../option_post_type.php:62
+msgid "Endable comment page( default: enable )."
+msgstr ""
+
+#: ../option_post_type.php:72
+msgid "Page layout"
+msgstr ""
+
+#: ../option_post_type.php:73
+msgid "Please choose this page's layout."
+msgstr ""
+
+#: ../option_post_type.php:78
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../option_post_type.php:79
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../option_post_type.php:80
+msgid "Full width layout"
+msgstr ""
+
+#: ../option_post_type.php:84
+msgid "Sidebar for page layout"
+msgstr ""
+
+#: ../option_post_type.php:89 ../settings/theme-option.php:81
+msgid "Setting sidebar in the area sidebar"
+msgstr ""
+
+#: ../option_post_type.php:93
+msgid "Extra page class"
+msgstr ""
+
+#: ../option_post_type.php:94
+msgid ""
+"If you wish to add extra classes to the body class of the page (for custom "
+"css use), then please add the class(es) here."
+msgstr ""
+
+#: ../option_post_type.php:103
+msgid "Menu Option"
+msgstr ""
+
+#: ../option_post_type.php:108
+msgid "Menu width"
+msgstr ""
+
+#: ../option_post_type.php:109
+msgid "Setting menu with (Unit px)"
+msgstr ""
+
+#: ../option_post_type.php:120
+msgid "Service Option"
+msgstr ""
+
+#: ../option_post_type.php:125 ../option_post_type.php:266
+msgid "Description"
+msgstr ""
+
+#: ../option_post_type.php:126
+msgid "Short description"
+msgstr ""
+
+#: ../option_post_type.php:136
+msgid "Look books Option"
+msgstr ""
+
+#: ../option_post_type.php:141
+msgid "Location"
+msgstr ""
+
+#: ../option_post_type.php:150
+msgid "Colections Option"
+msgstr ""
+
+#: ../option_post_type.php:155
+msgid "Designer"
+msgstr ""
+
+#: ../option_post_type.php:176
+msgid "Product Option"
+msgstr ""
+
+#: ../option_post_type.php:181
+msgid "Size Chart"
+msgstr ""
+
+#: ../option_post_type.php:182
+msgid "Select an image"
+msgstr ""
+
+#: ../option_post_type.php:203
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../option_post_type.php:212
+msgid "Test Text"
+msgstr ""
+
+#: ../option_post_type.php:213 ../option_post_type.php:308 ../option_post_type.
+#: php:316 ../option_post_type.php:323 ../option_post_type.php:330 ..
+#: option_post_type.php:337 ../option_post_type.php:344 ../option_post_type.php:
+#: 351 ../option_post_type.php:389
+msgid "field description (optional)"
+msgstr ""
+
+#: ../option_post_type.php:235
+msgid "Repeating Field Group"
+msgstr ""
+
+#: ../option_post_type.php:243
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: ../option_post_type.php:245
+msgid "Entry {#}"
+msgstr ""
+
+#: ../option_post_type.php:246
+msgid "Add Another Entry"
+msgstr ""
+
+#: ../option_post_type.php:247
+msgid "Remove Entry"
+msgstr ""
+
+#: ../option_post_type.php:259
+msgid "Entry Title"
+msgstr ""
+
+#: ../option_post_type.php:267
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: ../option_post_type.php:273
+msgid "Entry Image"
+msgstr ""
+
+#: ../option_post_type.php:279
+msgid "Image Caption"
+msgstr ""
+
+#: ../option_post_type.php:300
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../option_post_type.php:307
+msgid "Extra Info"
+msgstr ""
+
+#: ../option_post_type.php:315
+msgid "Avatar"
+msgstr ""
+
+#: ../option_post_type.php:322
+msgid "Facebook URL"
+msgstr ""
+
+#: ../option_post_type.php:329
+msgid "Twitter URL"
+msgstr ""
+
+#: ../option_post_type.php:336
+msgid "Google+ URL"
+msgstr ""
+
+#: ../option_post_type.php:343
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../option_post_type.php:350
+msgid "User Field"
+msgstr ""
+
+#: ../option_post_type.php:373
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../option_post_type.php:388
+msgid "Site Background Color"
+msgstr ""
+
+#: ../kt_tax_metabox.php:32
+msgid "Category slider"
+msgstr ""
+
+#: ../shortcodes.php:29 ../shortcodes.php:70
+msgid "Facebook"
+msgstr ""
+
+#: ../shortcodes.php:32 ../shortcodes.php:73 ../settings/theme-option.php:1530
+msgid "Twitter"
+msgstr ""
+
+#: ../shortcodes.php:35 ../shortcodes.php:76 ../settings/theme-option.php:1542
+msgid "Dribbble"
+msgstr ""
+
+#: ../shortcodes.php:38 ../shortcodes.php:79 ../settings/theme-option.php:1548
+msgid "Vimeo"
+msgstr ""
+
+#: ../shortcodes.php:41 ../shortcodes.php:82
+msgid "Tumblr"
+msgstr ""
+
+#: ../shortcodes.php:44 ../shortcodes.php:85 ../settings/theme-option.php:1560
+msgid "Skype"
+msgstr ""
+
+#: ../shortcodes.php:47 ../shortcodes.php:88
+msgid "Linkedin"
+msgstr ""
+
+#: ../shortcodes.php:50 ../shortcodes.php:91
+msgid "Google Plus"
+msgstr ""
+
+#: ../shortcodes.php:53 ../shortcodes.php:94 ../settings/theme-option.php:1590
+msgid "Youtube"
+msgstr ""
+
+#: ../shortcodes.php:56 ../shortcodes.php:97 ../settings/theme-option.php:1536
+msgid "Pinterest"
+msgstr ""
+
+#: ../shortcodes.php:59 ../shortcodes.php:100 ../settings/theme-option.php:1596
+msgid "Instagram"
+msgstr ""
+
+#: ../shortcodes.php:63 ../shortcodes.php:104 ../settings/theme-option.php:1572
+msgid "Vk"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:36
+msgid "Product Brands"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:37
+msgid "Product Brand"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:38
+msgid "Search Genres"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:39
+msgid "All Brands"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:40
+msgid "Parent Brands"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:41
+msgid "Parent Brands:"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:42
+msgid "Edit Product Brand"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:43
+msgid "Update Product Brand"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:44
+msgid "Add New Product Brand"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:45
+msgid "New Brand Name"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:67 ../brands/classes/taxonomies.php:145 ..
+#: brands/classes/taxonomies.php:259
+msgid "Thumbnail"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:73 ../brands/classes/taxonomies.php:152
+msgid "Upload/Add image"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:74 ../brands/classes/taxonomies.php:153
+msgid "Remove image"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:98 ../brands/classes/taxonomies.php:177
+msgid "Choose an image"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:100 ../brands/classes/taxonomies.php:179
+msgid "Use image"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:228
+msgid "Image"
+msgstr ""
+
+#: ../brands/classes/taxonomies.php:299
+msgid "Most Used"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:51
+#, php-format
+msgid "Please enter Mail Chimp API Key in <a href=\"%s\">here</a>"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:114 ../mailchimp/mailchimp.php:459
+msgid ""
+"Success!  Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:117
+msgid "E-mail address"
+msgstr "آدرس ایمیل"
+
+#: ../mailchimp/mailchimp.php:118
+msgid "Loading ..."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:118 ../mailchimp/mailchimp.php:118
+msgid "OK"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:135
+msgid "here"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:166
+msgid "Error"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:186
+msgid "Email address seems invalid."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:189
+msgid "Email address is required field."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:234
+msgid "KT MailChimp Settings"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:235
+msgid "KT MailChimp"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:249
+msgid "Mail Chimp Settings"
+msgstr ""
+
+#. ID
+#: ../mailchimp/mailchimp.php:275
+msgid "Settings"
+msgstr ""
+
+#. ID
+#: ../mailchimp/mailchimp.php:282
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#. ID
+#: ../mailchimp/mailchimp.php:292
+msgid "Email Lists"
+msgstr ""
+
+#. ID
+#: ../mailchimp/mailchimp.php:300
+msgid "Other option"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:338
+msgid ""
+"Enter your mail Chimp API key to enable a newsletter signup option with the "
+"registration form."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:359
+msgid ""
+"Place the short code shown below any list in a post or page to display the "
+"signup form, or use the dedicated widget."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:366
+msgid "Double Opt In"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:367
+msgid "Layout"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:394 ../mailchimp/mailchimp.php:397
+msgid "Mailchimp"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:396 ../js_composer/shortcodes/blog.php:15 ..
+#: js_composer/shortcodes/hot-deal-tab.php:8 ..
+#: js_composer/shortcodes/look_books.php:8 ..
+#: js_composer/shortcodes/featured_products.php:14 ..
+#: js_composer/shortcodes/category_carousel.php:15 ..
+#: js_composer/shortcodes/brand.php:15 ../js_composer/shortcodes/kt-product.php:
+#: 8 ../js_composer/shortcodes/colection.php:14 ../js_composer/shortcodes/tab-
+#: product.php:294 ../js_composer/shortcodes/categories.php:15 ..
+#: js_composer/shortcodes/banner-title.php:9 ../js_composer/shortcodes/tab-
+#: category.php:8 ../js_composer/shortcodes/products_sidebar.php:291 ..
+#: js_composer/shortcodes/hot-deal.php:8 ../js_composer/shortcodes/box_product.
+#: php:8 ../js_composer/shortcodes/list_product.php:15 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:16 ..
+#: js_composer/shortcodes/popular-cat.php:15 ../js_composer/shortcodes/service.
+#: php:16 ../js_composer/shortcodes/adv_banner.php:8 ..
+#: js_composer/shortcodes/testimonial.php:8 ..
+#: js_composer/shortcodes/lastest_deals.php:15
+msgid "Kute Theme"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:402 ../js_composer/shortcodes/blog.php:20 ..
+#: js_composer/shortcodes/hot-deal-tab.php:16 ..
+#: js_composer/shortcodes/look_books.php:13 ..
+#: js_composer/shortcodes/featured_products.php:19 ..
+#: js_composer/shortcodes/category_carousel.php:20 ..
+#: js_composer/shortcodes/brand.php:20 ../js_composer/shortcodes/kt-product.php:
+#: 13 ../js_composer/shortcodes/colection.php:19 ..
+#: js_composer/shortcodes/categories.php:20 ../js_composer/shortcodes/banner-
+#: title.php:43 ../js_composer/shortcodes/tab-category.php:16 ..
+#: js_composer/shortcodes/products_sidebar.php:296 ../js_composer/shortcodes/hot-
+#: deal.php:13 ../js_composer/shortcodes/box_product.php:13 ..
+#: js_composer/shortcodes/list_product.php:20 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:21 ..
+#: js_composer/shortcodes/popular-cat.php:20 ..
+#: js_composer/shortcodes/adv_banner.php:13 ..
+#: js_composer/shortcodes/testimonial.php:13 ..
+#: js_composer/shortcodes/lastest_deals.php:20
+msgid "Title"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:404
+msgid "Mailchimp title"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:409
+msgid "Newsletter layout"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:413 ../mailchimp/mailchimp.php:599
+msgid "One line"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:414 ../mailchimp/mailchimp.php:600
+msgid "Two line"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:416 ../mailchimp/mailchimp.php:434
+msgid "Select your layout"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:420
+msgid "Display style"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:424 ../js_composer/visualcomposer.php:15 ..
+#: js_composer/visualcomposer.php:25 ../js_composer/shortcodes/blog.php:29 ..
+#: js_composer/shortcodes/hot-deal-tab.php:43 ..
+#: js_composer/shortcodes/featured_products.php:39 ..
+#: js_composer/shortcodes/brand.php:49 ../js_composer/shortcodes/colection.php:
+#: 31 ../js_composer/shortcodes/tab-product.php:325 ..
+#: js_composer/shortcodes/products_sidebar.php:305 ..
+#: js_composer/shortcodes/box_product.php:38 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:41 ..
+#: js_composer/shortcodes/popular-cat.php:31 ..
+#: js_composer/shortcodes/testimonial.php:24
+msgid "Style 1"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:425 ../js_composer/visualcomposer.php:16 ..
+#: js_composer/visualcomposer.php:26 ../js_composer/shortcodes/blog.php:30 ..
+#: js_composer/shortcodes/hot-deal-tab.php:44 ..
+#: js_composer/shortcodes/featured_products.php:40 ..
+#: js_composer/shortcodes/brand.php:50 ../js_composer/shortcodes/tab-product.php:
+#: 326 ../js_composer/shortcodes/products_sidebar.php:306 ..
+#: js_composer/shortcodes/box_product.php:39 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:42 ..
+#: js_composer/shortcodes/popular-cat.php:32 ..
+#: js_composer/shortcodes/testimonial.php:25
+msgid "Style 2"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:430
+msgid "List"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:438
+msgid "Double opt-in"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:441 ../mailchimp/mailchimp.php:613
+msgid "Yes, please"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:445
+msgid "Text before form"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:451
+msgid "Text after form"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:457
+msgid "Success Message"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:464 ../js_composer/shortcodes/hot-deal-tab.php:211 .
+#: ./js_composer/shortcodes/look_books.php:61 ..
+#: js_composer/shortcodes/featured_products.php:73 ..
+#: js_composer/shortcodes/category_carousel.php:192 ..
+#: js_composer/shortcodes/brand.php:376 ../js_composer/shortcodes/kt-product.php:
+#: 42 ../js_composer/shortcodes/colection.php:57 ../js_composer/shortcodes/tab-
+#: product.php:369 ../js_composer/shortcodes/categories.php:109 ..
+#: js_composer/shortcodes/banner-title.php:99 ../js_composer/shortcodes/tab-
+#: category.php:360 ../js_composer/shortcodes/products_sidebar.php:411 ..
+#: js_composer/shortcodes/hot-deal.php:197 ..
+#: js_composer/shortcodes/list_product.php:75 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:157 ..
+#: js_composer/shortcodes/service.php:100 ../js_composer/shortcodes/adv_banner.
+#: php:46 ../js_composer/shortcodes/testimonial.php:83 ..
+#: js_composer/shortcodes/lastest_deals.php:91
+msgid "Extra class name"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:466 ../js_composer/shortcodes/hot-deal-tab.php:213 .
+#: ./js_composer/shortcodes/look_books.php:63 ..
+#: js_composer/shortcodes/featured_products.php:75 ..
+#: js_composer/shortcodes/category_carousel.php:194 ..
+#: js_composer/shortcodes/brand.php:378 ../js_composer/shortcodes/kt-product.php:
+#: 44 ../js_composer/shortcodes/colection.php:59 ../js_composer/shortcodes/tab-
+#: product.php:371 ../js_composer/shortcodes/categories.php:111 ..
+#: js_composer/shortcodes/banner-title.php:101 ../js_composer/shortcodes/tab-
+#: category.php:362 ../js_composer/shortcodes/products_sidebar.php:413 ..
+#: js_composer/shortcodes/hot-deal.php:199 ..
+#: js_composer/shortcodes/list_product.php:77 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:159 ..
+#: js_composer/shortcodes/service.php:102 ../js_composer/shortcodes/adv_banner.
+#: php:48 ../js_composer/shortcodes/testimonial.php:85 ..
+#: js_composer/shortcodes/lastest_deals.php:93
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:470
+msgid "Min Height option"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:476
+msgid "On Desktop"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:484
+msgid "On Tablet"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:492
+msgid "On Mobile"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:499 ../js_composer/shortcodes/blog.php:184 ..
+#: js_composer/shortcodes/hot-deal-tab.php:204 ..
+#: js_composer/shortcodes/look_books.php:171 ..
+#: js_composer/shortcodes/featured_products.php:181 ..
+#: js_composer/shortcodes/category_carousel.php:198 ..
+#: js_composer/shortcodes/brand.php:369 ../js_composer/shortcodes/kt-product.php:
+#: 49 ../js_composer/shortcodes/colection.php:165 ../js_composer/shortcodes/tab-
+#: product.php:479 ../js_composer/shortcodes/categories.php:114 ..
+#: js_composer/shortcodes/banner-title.php:106 ../js_composer/shortcodes/tab-
+#: category.php:274 ../js_composer/shortcodes/products_sidebar.php:468 ..
+#: js_composer/shortcodes/hot-deal.php:190 ../js_composer/shortcodes/box_product.
+#: php:258 ../js_composer/shortcodes/list_product.php:82 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:100 ..
+#: js_composer/shortcodes/popular-cat.php:91 ../js_composer/shortcodes/service.
+#: php:93 ../js_composer/shortcodes/adv_banner.php:53 ..
+#: js_composer/shortcodes/testimonial.php:90 ..
+#: js_composer/shortcodes/lastest_deals.php:196
+msgid "Css"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:502 ../js_composer/shortcodes/blog.php:187 ..
+#: js_composer/shortcodes/hot-deal-tab.php:206 ..
+#: js_composer/shortcodes/look_books.php:173 ..
+#: js_composer/shortcodes/featured_products.php:185 ..
+#: js_composer/shortcodes/category_carousel.php:201 ..
+#: js_composer/shortcodes/brand.php:372 ../js_composer/shortcodes/kt-product.php:
+#: 52 ../js_composer/shortcodes/colection.php:169 ../js_composer/shortcodes/tab-
+#: product.php:482 ../js_composer/shortcodes/categories.php:117 ..
+#: js_composer/shortcodes/banner-title.php:109 ../js_composer/shortcodes/tab-
+#: category.php:276 ../js_composer/shortcodes/products_sidebar.php:471 ..
+#: js_composer/shortcodes/hot-deal.php:192 ../js_composer/shortcodes/box_product.
+#: php:261 ../js_composer/shortcodes/list_product.php:85 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:103 ..
+#: js_composer/shortcodes/popular-cat.php:94 ../js_composer/shortcodes/service.
+#: php:96 ../js_composer/shortcodes/adv_banner.php:56 ..
+#: js_composer/shortcodes/testimonial.php:92 ..
+#: js_composer/shortcodes/lastest_deals.php:199
+msgid "Design options"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:518
+msgid "Mailchimp."
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:519
+msgid "KT Mailchimp"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:592
+msgid "Title:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:597
+msgid "Newsletter layout:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:605
+msgid "List:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:612
+msgid "Double opt-in:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:617
+msgid "Text before form:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:622
+msgid "Text after form:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:628
+msgid "Success Message:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:633
+msgid "Extra class name:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:637
+msgid "Min Height On Desktop:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:642
+msgid "Min Height On Tablet:"
+msgstr ""
+
+#: ../mailchimp/mailchimp.php:647
+msgid "Min Height On Mobile:"
+msgstr ""
+
+#: ../post-types/post-types.php:8 ../post-types/post-types.php:19
+msgid "Mega Menu"
+msgstr ""
+
+#: ../post-types/post-types.php:9
+msgid "Mega Menu Item"
+msgstr ""
+
+#: ../post-types/post-types.php:10 ../post-types/post-types.php:48 ../post-
+#: types/post-types.php:81 ../post-types/post-types.php:112 ../post-types/post-
+#: types.php:143
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/post-types.php:11
+msgid "Add New Menu Item"
+msgstr ""
+
+#: ../post-types/post-types.php:12
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../post-types/post-types.php:13
+msgid "New Menu Item"
+msgstr ""
+
+#: ../post-types/post-types.php:14
+msgid "View Menu Item"
+msgstr ""
+
+#: ../post-types/post-types.php:15
+msgid "Search Menu Items"
+msgstr ""
+
+#: ../post-types/post-types.php:16
+msgid "No Menu Items found"
+msgstr ""
+
+#: ../post-types/post-types.php:17
+msgid "No Menu Items found in Trash"
+msgstr ""
+
+#: ../post-types/post-types.php:18
+msgid "Parent Menu Item:"
+msgstr ""
+
+#: ../post-types/post-types.php:25
+msgid "Mega Menus."
+msgstr ""
+
+#: ../post-types/post-types.php:46 ../post-types/post-types.php:47
+msgid "Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:49 ../post-types/post-types.php:58
+msgid "Testimonials"
+msgstr ""
+
+#: ../post-types/post-types.php:50
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:51
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:52
+msgid "New Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:53
+msgid "View Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:54
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:55
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../post-types/post-types.php:56
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../post-types/post-types.php:57
+msgid "Parent Testimonial"
+msgstr ""
+
+#: ../post-types/post-types.php:79 ../post-types/post-types.php:80 ../post-
+#: types/post-types.php:82 ../post-types/post-types.php:91
+msgid "Services"
+msgstr ""
+
+#: ../post-types/post-types.php:83
+msgid "Add New Service"
+msgstr ""
+
+#: ../post-types/post-types.php:84
+msgid "Edit Service"
+msgstr ""
+
+#: ../post-types/post-types.php:85
+msgid "New Service"
+msgstr ""
+
+#: ../post-types/post-types.php:86
+msgid "View Service"
+msgstr ""
+
+#: ../post-types/post-types.php:87
+msgid "Search Service"
+msgstr ""
+
+#: ../post-types/post-types.php:88
+msgid "No Service found"
+msgstr ""
+
+#: ../post-types/post-types.php:89
+msgid "No Service found in Trash"
+msgstr ""
+
+#: ../post-types/post-types.php:90
+msgid "Parent Service"
+msgstr ""
+
+#: ../post-types/post-types.php:110 ../post-types/post-types.php:111 ../post-
+#: types/post-types.php:122
+msgid "Look Boocks"
+msgstr ""
+
+#: ../post-types/post-types.php:113
+msgid "Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:114
+msgid "Add New Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:115
+msgid "Edit Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:116
+msgid "New Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:117
+msgid "View Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:118
+msgid "Search Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:119
+msgid "No Look Boocks found"
+msgstr ""
+
+#: ../post-types/post-types.php:120
+msgid "No Look Boocks found in Trash"
+msgstr ""
+
+#: ../post-types/post-types.php:121
+msgid "Parent Look Boock"
+msgstr ""
+
+#: ../post-types/post-types.php:141 ../post-types/post-types.php:142 ../post-
+#: types/post-types.php:144 ../post-types/post-types.php:153
+msgid "Colections"
+msgstr ""
+
+#: ../post-types/post-types.php:145
+msgid "Add New Colection"
+msgstr ""
+
+#: ../post-types/post-types.php:146
+msgid "Edit Colection"
+msgstr ""
+
+#: ../post-types/post-types.php:147
+msgid "New Colection"
+msgstr ""
+
+#: ../post-types/post-types.php:149
+msgid "Search Colection"
+msgstr ""
+
+#: ../post-types/post-types.php:150
+msgid "No Colection found"
+msgstr ""
+
+#: ../post-types/post-types.php:151
+msgid "No Colection found in Trash"
+msgstr ""
+
+#: ../post-types/post-types.php:152
+msgid "Parent Colection"
+msgstr ""
+
+#: ../post-types/post-types.php:182 ../post-types/post-types.php:183 ../post-
+#: types/post-types.php:192 ../post-types/post-types.php:208 ../post-types/post-
+#: types.php:209 ../post-types/post-types.php:218 ..
+#: js_composer/shortcodes/categories.php:13
+msgid "Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:184 ../post-types/post-types.php:210
+msgid "Search Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:185 ../post-types/post-types.php:211
+msgid "All Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:186 ../post-types/post-types.php:212
+msgid "Parent Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:187 ../post-types/post-types.php:213
+msgid "Parent Categories:"
+msgstr ""
+
+#: ../post-types/post-types.php:188 ../post-types/post-types.php:214
+msgid "Edit Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:189 ../post-types/post-types.php:215
+msgid "Update Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:190 ../post-types/post-types.php:216
+msgid "Add New Categories"
+msgstr ""
+
+#: ../post-types/post-types.php:191 ../post-types/post-types.php:217
+msgid "New Categories Name"
+msgstr ""
+
+#: ../settings/theme-option.php:33
+msgid "Page Service"
+msgstr ""
+
+#: ../settings/theme-option.php:36
+msgid "Setting page service"
+msgstr ""
+
+#: ../settings/theme-option.php:39
+msgid "Page Support"
+msgstr ""
+
+#: ../settings/theme-option.php:42
+msgid "Setting page support "
+msgstr ""
+
+#: ../settings/theme-option.php:45
+msgid "About Us"
+msgstr ""
+
+#: ../settings/theme-option.php:48
+msgid "Setting page about us"
+msgstr ""
+
+#: ../settings/theme-option.php:65
+msgid "Sidebar Area"
+msgstr ""
+
+#: ../settings/theme-option.php:74
+msgid "Setting Sidebar Area"
+msgstr ""
+
+#: ../settings/theme-option.php:77
+msgid "Choose sidebar"
+msgstr ""
+
+#: ../settings/theme-option.php:101
+msgid "Logo"
+msgstr ""
+
+#: ../settings/theme-option.php:104
+msgid "Setting your site's logo"
+msgstr ""
+
+#: ../settings/theme-option.php:107
+msgid "Logo Footer"
+msgstr ""
+
+#: ../settings/theme-option.php:110
+msgid "Setting your site's logo in footer"
+msgstr ""
+
+#: ../settings/theme-option.php:113
+msgid "Favicon"
+msgstr ""
+
+#: ../settings/theme-option.php:116
+msgid "Setting your site's favicon"
+msgstr ""
+
+#: ../settings/theme-option.php:139 ../js_composer/shortcodes/hot-deal-tab.php:
+#: 228 ../js_composer/shortcodes/tab-category.php:292
+msgid "Header"
+msgstr ""
+
+#: ../settings/theme-option.php:142
+msgid "Setting header style display"
+msgstr ""
+
+#: ../settings/theme-option.php:176
+msgid "My Account box"
+msgstr ""
+
+#: ../settings/theme-option.php:179
+msgid "Setting My Account box display"
+msgstr ""
+
+#: ../settings/theme-option.php:202
+msgid "User Vertical Menu"
+msgstr ""
+
+#: ../settings/theme-option.php:210
+msgid "Use Vertical Menu on show any page"
+msgstr ""
+
+#: ../settings/theme-option.php:213
+msgid "Collapse"
+msgstr ""
+
+#: ../settings/theme-option.php:221
+msgid "Vertical menu will expand on click"
+msgstr ""
+
+#: ../settings/theme-option.php:224 ../settings/theme-option.php:225
+msgid "The number of visible vertical menu items"
+msgstr ""
+
+#: ../settings/theme-option.php:245
+msgid "Ads text"
+msgstr ""
+
+#: ../settings/theme-option.php:246
+msgid "Display ads text only header style 3"
+msgstr ""
+
+#: ../settings/theme-option.php:265
+msgid "Category Service"
+msgstr ""
+
+#: ../settings/theme-option.php:269
+msgid "Setting category service in header 7"
+msgstr ""
+
+#: ../settings/theme-option.php:287
+msgid "Enable Header postion"
+msgstr ""
+
+#: ../settings/theme-option.php:311
+msgid "Enable Box contact info"
+msgstr ""
+
+#: ../settings/theme-option.php:321
+msgid "Enable Hot line on contact info"
+msgstr ""
+
+#: ../settings/theme-option.php:331
+msgid "Enable Social on contact info"
+msgstr ""
+
+#: ../settings/theme-option.php:362
+msgid "Footer"
+msgstr ""
+
+#: ../settings/theme-option.php:365
+msgid "Setting footer style display"
+msgstr ""
+
+#: ../settings/theme-option.php:378
+msgid "Copyrights"
+msgstr ""
+
+#: ../settings/theme-option.php:379
+msgid "Copyrights your site"
+msgstr ""
+
+#: ../settings/theme-option.php:398
+msgid "Footer Background"
+msgstr ""
+
+#: ../settings/theme-option.php:401
+msgid "Display Background on footer style 2"
+msgstr ""
+
+#: ../settings/theme-option.php:404
+msgid "Footer Payment logo"
+msgstr ""
+
+#: ../settings/theme-option.php:407
+msgid "Display payment logo on footer style 2"
+msgstr ""
+
+#: ../settings/theme-option.php:410
+msgid "Subscribe newsletter title"
+msgstr ""
+
+#: ../settings/theme-option.php:411
+msgid "Subscribe newsletter title display on footer style 2"
+msgstr ""
+
+#: ../settings/theme-option.php:417
+msgid "Subscribe newsletter description"
+msgstr ""
+
+#: ../settings/theme-option.php:418
+msgid "Subscribe newsletter description display on footer style 2"
+msgstr ""
+
+#: ../settings/theme-option.php:438
+msgid "Footer Payment logos"
+msgstr ""
+
+#: ../settings/theme-option.php:441
+msgid "Display payment logos on footer style 4, 5"
+msgstr ""
+
+#: ../settings/theme-option.php:1096
+msgid "Header Overlay opacity"
+msgstr ""
+
+#: ../settings/theme-option.php:1132
+msgid "Topbar Overlay opacity"
+msgstr ""
+
+#: ../settings/theme-option.php:1368
+msgid "Number of days newness"
+msgstr ""
+
+#: ../settings/theme-option.php:1372
+msgid "Number of days to treat as new product"
+msgstr ""
+
+#: ../settings/theme-option.php:1375
+msgid "Grid column on desktop (Screen resolution of device >= 992px )"
+msgstr ""
+
+#: ../settings/theme-option.php:1386 ../settings/theme-option.php:1400 ..
+#: settings/theme-option.php:1414
+msgid "Number column to display width gird mod"
+msgstr ""
+
+#: ../settings/theme-option.php:1389
+msgid "Grid column on tablet (Screen resolution of device >=768px and < 992px ) "
+msgstr ""
+
+#: ../settings/theme-option.php:1403
+msgid "Grid column on mobile mobile (Screen resolution of device < 768px)"
+msgstr ""
+
+#: ../settings/theme-option.php:1431
+msgid "Shop Sidebar Area"
+msgstr ""
+
+#: ../settings/theme-option.php:1440
+msgid "Setting Sidebar Area on shop page"
+msgstr ""
+
+#: ../settings/theme-option.php:1443
+msgid "Shop page sidebar"
+msgstr ""
+
+#: ../settings/theme-option.php:1447
+msgid "Setting sidebar in the area sidebar on shop page"
+msgstr ""
+
+#: ../settings/theme-option.php:1450
+msgid "Products perpage"
+msgstr ""
+
+#: ../settings/theme-option.php:1454
+msgid "Number of products on shop page"
+msgstr ""
+
+#: ../settings/theme-option.php:1471
+msgid "Single Sidebar Area"
+msgstr ""
+
+#: ../settings/theme-option.php:1480
+msgid "Setting Sidebar Area on single page"
+msgstr ""
+
+#: ../settings/theme-option.php:1483
+msgid "Single page sidebar"
+msgstr ""
+
+#: ../settings/theme-option.php:1488
+msgid "Setting sidebar in the area sidebar on single page"
+msgstr ""
+
+#: ../settings/theme-option.php:1491
+msgid "Product thumb slider"
+msgstr ""
+
+#: ../settings/theme-option.php:1518
+msgid "Addthis ID"
+msgstr ""
+
+#: ../settings/theme-option.php:1519
+msgid "Setting id addthis"
+msgstr ""
+
+#: ../settings/theme-option.php:1524
+msgid "Facebook Link"
+msgstr ""
+
+#: ../settings/theme-option.php:1525
+msgid "Setting id facebook link"
+msgstr ""
+
+#: ../settings/theme-option.php:1531
+msgid "Your twitter username"
+msgstr ""
+
+#: ../settings/theme-option.php:1537
+msgid "Your pinterest username"
+msgstr ""
+
+#: ../settings/theme-option.php:1543
+msgid "Your dribbble username"
+msgstr ""
+
+#: ../settings/theme-option.php:1549
+msgid "Your vimeo username"
+msgstr ""
+
+#: ../settings/theme-option.php:1554
+msgid "Tumblr Link"
+msgstr ""
+
+#: ../settings/theme-option.php:1555
+msgid "Your tumblr username"
+msgstr ""
+
+#: ../settings/theme-option.php:1561
+msgid "Your skype username"
+msgstr ""
+
+#: ../settings/theme-option.php:1566
+msgid "LinkedIn Link"
+msgstr ""
+
+#: ../settings/theme-option.php:1567
+msgid "Setting id linkedIn link"
+msgstr ""
+
+#: ../settings/theme-option.php:1573
+msgid "Your vk id"
+msgstr ""
+
+#: ../settings/theme-option.php:1578 ../settings/theme-option.php:1584
+msgid "Google+ Link"
+msgstr ""
+
+#: ../settings/theme-option.php:1579 ../settings/theme-option.php:1585
+msgid "Setting id Google+ link"
+msgstr ""
+
+#: ../settings/theme-option.php:1591
+msgid "Your youtube username"
+msgstr ""
+
+#: ../settings/theme-option.php:1597
+msgid "Your instagram username"
+msgstr ""
+
+#: ../settings/theme-option.php:1617
+msgid "Code CSS"
+msgstr ""
+
+#: ../settings/theme-option.php:1618
+msgid "Add css in your site"
+msgstr ""
+
+#: ../settings/theme-option.php:1638
+msgid "Code JS"
+msgstr ""
+
+#: ../settings/theme-option.php:1639
+msgid "Add js in your site"
+msgstr ""
+
+#: ../settings/theme-option.php:1659
+msgid "Address"
+msgstr ""
+
+#: ../settings/theme-option.php:1660
+msgid "Setting address for your site"
+msgstr ""
+
+#: ../settings/theme-option.php:1665
+msgid "Phone"
+msgstr ""
+
+#: ../settings/theme-option.php:1666
+msgid "Setting hotline for your site"
+msgstr ""
+
+#: ../settings/theme-option.php:1671
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../settings/theme-option.php:1672
+msgid "Setting email for your site"
+msgstr ""
+
+#. Name of the plugin
+msgid "CMB2"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/WebDevStudios/CMB2"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"CMB2 will create metaboxes and forms with custom fields that will blow your "
+"mind."
+msgstr ""
+
+#. Author of the plugin
+msgid "WebDevStudios"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://webdevstudios.com"
+msgstr ""
+
+#: ../cmb2/admin.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: ../cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:316
+msgid "Add Row"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:375 ../cmb2/includes/CMB2_Types.php:1130 ..
+#: cmb2/includes/CMB2_JS.php:138 ../Tax-meta-class/Tax-meta-class.php:345 ../Tax-
+#: meta-class/Tax-meta-class.php:345 ../Tax-meta-class/Tax-meta-class.php:392 ..
+#: Tax-meta-class/Tax-meta-class.php:392
+msgid "Remove"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:856 ../cmb2/includes/CMB2_Types.php:904
+msgid "No terms"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:971
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:1033
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:1111 ../cmb2/includes/CMB2_JS.php:137 ../Tax-
+#: meta-class/Tax-meta-class.php:699
+msgid "Remove Image"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:1125 ../cmb2/includes/CMB2_JS.php:139
+msgid "File:"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Types.php:1128 ../cmb2/includes/CMB2_JS.php:140
+msgid "Download"
+msgstr ""
+
+#: ../cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:86 ../cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:118 ../cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:123 ../js_composer/shortcodes/kt-product.php:35 ..
+#: js_composer/shortcodes/banner-title.php:91
+msgid "Time"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: ../cmb2/includes/CMB2_Field.php:978 ../cmb2/includes/CMB2_Field.php:982 ..
+#: js_composer/shortcodes/blog.php:58 ../js_composer/shortcodes/hot-deal-tab.php:
+#: 65 ../js_composer/shortcodes/category_carousel.php:67 ..
+#: js_composer/shortcodes/brand.php:83 ../js_composer/shortcodes/categories.php:
+#: 54 ../js_composer/shortcodes/tab-category.php:325 ..
+#: js_composer/shortcodes/products_sidebar.php:331 ../js_composer/shortcodes/hot-
+#: deal.php:51 ../js_composer/shortcodes/box_product.php:79 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:76 ..
+#: js_composer/shortcodes/popular-cat.php:67 ../js_composer/shortcodes/service.
+#: php:44 ../js_composer/shortcodes/lastest_deals.php:65
+msgid "None"
+msgstr ""
+
+#: ../js_composer/visualcomposer.php:19
+msgid "Catalog Images"
+msgstr ""
+
+#: ../js_composer/visualcomposer.php:20
+msgid "Product Thumbnails"
+msgstr ""
+
+#: ../js_composer/visualcomposer.php:27 ../js_composer/shortcodes/blog.php:31 ..
+#: js_composer/shortcodes/brand.php:51 ../js_composer/shortcodes/tab-product.php:
+#: 327 ../js_composer/shortcodes/box_product.php:40 ..
+#: js_composer/shortcodes/testimonial.php:26
+msgid "Style 3"
+msgstr ""
+
+#: ../js_composer/visualcomposer.php:28 ../js_composer/shortcodes/blog.php:32 ..
+#: js_composer/shortcodes/brand.php:52 ../js_composer/shortcodes/box_product.php:
+#: 41
+msgid "Style 4"
+msgstr ""
+
+#: ../js_composer/includes/tab-5.php:43 ../js_composer/includes/tab-4.php:21 ..
+#: js_composer/includes/tab-7.php:18 ../js_composer/includes/tab-6.php:17 ..
+#: js_composer/includes/tab-3.php:47 ../js_composer/includes/tab-1.php:20 ..
+#: js_composer/includes/tab-2.php:21
+msgid "Tabs Name"
+msgstr ""
+
+#: ../js_composer/includes/tab-3.php:81
+msgid "Deals of The Day"
+msgstr ""
+
+#: ../js_composer/includes/tab-1.php:69
+msgid "featured"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:13
+msgid "Blogs"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:16
+msgid "Display blog by carousel"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:26 ../js_composer/shortcodes/service.php:68
+msgid "Display Style"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:33
+msgid "Style 5"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:36
+msgid "Show blog carousel by difference style."
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:40
+msgid "Subtitle"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:47 ../js_composer/shortcodes/hot-deal-tab.
+#: php:30 ../js_composer/shortcodes/tab-category.php:31 ..
+#: js_composer/shortcodes/hot-deal.php:27 ../js_composer/shortcodes/box_product.
+#: php:106
+msgid "Number Post"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:51 ../js_composer/shortcodes/hot-deal-tab.
+#: php:34 ../js_composer/shortcodes/tab-category.php:35 ..
+#: js_composer/shortcodes/hot-deal.php:31 ../js_composer/shortcodes/box_product.
+#: php:110
+msgid "Number post in a slide"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:55 ../js_composer/shortcodes/hot-deal-tab.
+#: php:62 ../js_composer/shortcodes/category_carousel.php:59 ..
+#: js_composer/shortcodes/brand.php:80 ../js_composer/shortcodes/categories.php:
+#: 46 ../js_composer/shortcodes/tab-category.php:322 ..
+#: js_composer/shortcodes/products_sidebar.php:328 ../js_composer/shortcodes/hot-
+#: deal.php:48 ../js_composer/shortcodes/box_product.php:76 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:73 ..
+#: js_composer/shortcodes/popular-cat.php:64 ../js_composer/shortcodes/service.
+#: php:41 ../js_composer/shortcodes/lastest_deals.php:62
+msgid "Order by"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:59 ../js_composer/shortcodes/hot-deal-tab.
+#: php:66 ../js_composer/shortcodes/brand.php:84 ../js_composer/shortcodes/tab-
+#: category.php:326 ../js_composer/shortcodes/products_sidebar.php:332 ..
+#: js_composer/shortcodes/hot-deal.php:52 ../js_composer/shortcodes/box_product.
+#: php:80 ../js_composer/shortcodes/lastest_deals_sidebar.php:77 ..
+#: js_composer/shortcodes/popular-cat.php:68 ../js_composer/shortcodes/service.
+#: php:45 ../js_composer/shortcodes/lastest_deals.php:66
+msgid "ID"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:60 ../js_composer/shortcodes/hot-deal-tab.
+#: php:67 ../js_composer/shortcodes/brand.php:85 ../js_composer/shortcodes/tab-
+#: category.php:327 ../js_composer/shortcodes/products_sidebar.php:333 ..
+#: js_composer/shortcodes/hot-deal.php:53 ../js_composer/shortcodes/box_product.
+#: php:81 ../js_composer/shortcodes/lastest_deals_sidebar.php:78 ..
+#: js_composer/shortcodes/popular-cat.php:69 ../js_composer/shortcodes/service.
+#: php:46 ../js_composer/shortcodes/lastest_deals.php:67
+msgid "Author"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:61 ../js_composer/shortcodes/hot-deal-tab.
+#: php:68 ../js_composer/shortcodes/category_carousel.php:64 ..
+#: js_composer/shortcodes/brand.php:86 ../js_composer/shortcodes/categories.php:
+#: 51 ../js_composer/shortcodes/tab-category.php:328 ..
+#: js_composer/shortcodes/products_sidebar.php:334 ../js_composer/shortcodes/hot-
+#: deal.php:54 ../js_composer/shortcodes/box_product.php:82 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:79 ..
+#: js_composer/shortcodes/popular-cat.php:70 ../js_composer/shortcodes/service.
+#: php:47 ../js_composer/shortcodes/lastest_deals.php:68
+msgid "Name"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:62 ../js_composer/shortcodes/hot-deal-tab.
+#: php:69 ../js_composer/shortcodes/brand.php:87 ../js_composer/shortcodes/tab-
+#: category.php:329 ../js_composer/shortcodes/products_sidebar.php:335 ..
+#: js_composer/shortcodes/hot-deal.php:55 ../js_composer/shortcodes/box_product.
+#: php:83 ../js_composer/shortcodes/lastest_deals_sidebar.php:80 ..
+#: js_composer/shortcodes/popular-cat.php:71 ../js_composer/shortcodes/service.
+#: php:48 ../js_composer/shortcodes/lastest_deals.php:69
+msgid "Date"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:63 ../js_composer/shortcodes/hot-deal-tab.
+#: php:70 ../js_composer/shortcodes/brand.php:88 ../js_composer/shortcodes/tab-
+#: category.php:330 ../js_composer/shortcodes/products_sidebar.php:336 ..
+#: js_composer/shortcodes/hot-deal.php:56 ../js_composer/shortcodes/box_product.
+#: php:84 ../js_composer/shortcodes/lastest_deals_sidebar.php:81 ..
+#: js_composer/shortcodes/popular-cat.php:72 ../js_composer/shortcodes/service.
+#: php:49 ../js_composer/shortcodes/lastest_deals.php:70
+msgid "Modified"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:64 ../js_composer/shortcodes/hot-deal-tab.
+#: php:71 ../js_composer/shortcodes/brand.php:89 ../js_composer/shortcodes/tab-
+#: category.php:331 ../js_composer/shortcodes/products_sidebar.php:337 ..
+#: js_composer/shortcodes/hot-deal.php:57 ../js_composer/shortcodes/box_product.
+#: php:85 ../js_composer/shortcodes/lastest_deals_sidebar.php:82 ..
+#: js_composer/shortcodes/popular-cat.php:73 ../js_composer/shortcodes/service.
+#: php:50 ../js_composer/shortcodes/lastest_deals.php:71
+msgid "Rand"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:67 ../js_composer/shortcodes/hot-deal-tab.
+#: php:74 ../js_composer/shortcodes/brand.php:92 ../js_composer/shortcodes/tab-
+#: category.php:335 ../js_composer/shortcodes/products_sidebar.php:341 ..
+#: js_composer/shortcodes/hot-deal.php:60 ../js_composer/shortcodes/box_product.
+#: php:89 ../js_composer/shortcodes/lastest_deals_sidebar.php:85 ..
+#: js_composer/shortcodes/popular-cat.php:76 ../js_composer/shortcodes/service.
+#: php:53 ../js_composer/shortcodes/lastest_deals.php:76
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:71 ../js_composer/shortcodes/hot-deal-tab.
+#: php:78 ../js_composer/shortcodes/brand.php:96 ../js_composer/shortcodes/tab-
+#: category.php:348 ../js_composer/shortcodes/products_sidebar.php:354 ..
+#: js_composer/shortcodes/hot-deal.php:64 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:89 ..
+#: js_composer/shortcodes/popular-cat.php:80 ../js_composer/shortcodes/service.
+#: php:57 ../js_composer/shortcodes/lastest_deals.php:80
+msgid "Order"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:74 ../js_composer/shortcodes/hot-deal-tab.
+#: php:81 ../js_composer/shortcodes/brand.php:99 ../js_composer/shortcodes/tab-
+#: category.php:351 ../js_composer/shortcodes/products_sidebar.php:357 ..
+#: js_composer/shortcodes/hot-deal.php:67 ../js_composer/shortcodes/box_product.
+#: php:97 ../js_composer/shortcodes/lastest_deals_sidebar.php:92 ..
+#: js_composer/shortcodes/popular-cat.php:83 ../js_composer/shortcodes/service.
+#: php:60 ../js_composer/shortcodes/lastest_deals.php:83
+msgid "ASC"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:75 ../js_composer/shortcodes/hot-deal-tab.
+#: php:82 ../js_composer/shortcodes/brand.php:100 ../js_composer/shortcodes/tab-
+#: category.php:352 ../js_composer/shortcodes/products_sidebar.php:358 ..
+#: js_composer/shortcodes/hot-deal.php:68 ../js_composer/shortcodes/box_product.
+#: php:98 ../js_composer/shortcodes/lastest_deals_sidebar.php:93 ..
+#: js_composer/shortcodes/popular-cat.php:84 ../js_composer/shortcodes/service.
+#: php:61 ../js_composer/shortcodes/lastest_deals.php:84
+msgid "DESC"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:78 ../js_composer/shortcodes/hot-deal-tab.
+#: php:85 ../js_composer/shortcodes/brand.php:103 ../js_composer/shortcodes/tab-
+#: category.php:355 ../js_composer/shortcodes/products_sidebar.php:361 ..
+#: js_composer/shortcodes/hot-deal.php:71 ../js_composer/shortcodes/box_product.
+#: php:101 ../js_composer/shortcodes/lastest_deals_sidebar.php:96 ..
+#: js_composer/shortcodes/popular-cat.php:87 ../js_composer/shortcodes/service.
+#: php:64 ../js_composer/shortcodes/lastest_deals.php:87
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:84 ../js_composer/shortcodes/blog.php:96 ..
+#: js_composer/shortcodes/blog.php:109 ../js_composer/shortcodes/blog.php:142 ..
+#: js_composer/shortcodes/hot-deal-tab.php:107 ../js_composer/shortcodes/hot-
+#: deal-tab.php:118 ../js_composer/shortcodes/hot-deal-tab.php:130 ..
+#: js_composer/shortcodes/hot-deal-tab.php:163 ..
+#: js_composer/shortcodes/look_books.php:71 ../js_composer/shortcodes/look_books.
+#: php:83 ../js_composer/shortcodes/look_books.php:96 ..
+#: js_composer/shortcodes/look_books.php:129 ..
+#: js_composer/shortcodes/featured_products.php:81 ..
+#: js_composer/shortcodes/featured_products.php:93 ..
+#: js_composer/shortcodes/featured_products.php:106 ..
+#: js_composer/shortcodes/featured_products.php:139 ..
+#: js_composer/shortcodes/category_carousel.php:85 ..
+#: js_composer/shortcodes/category_carousel.php:95 ..
+#: js_composer/shortcodes/category_carousel.php:106 ..
+#: js_composer/shortcodes/category_carousel.php:118 ..
+#: js_composer/shortcodes/category_carousel.php:151 ..
+#: js_composer/shortcodes/brand.php:110 ../js_composer/shortcodes/brand.php:122 .
+#: ./js_composer/shortcodes/brand.php:135 ../js_composer/shortcodes/brand.php:168
+#: ../js_composer/shortcodes/brand.php:214 ../js_composer/shortcodes/brand.php:
+#: 232 ../js_composer/shortcodes/brand.php:251 ../js_composer/shortcodes/brand.
+#: php:302 ../js_composer/shortcodes/colection.php:65 ..
+#: js_composer/shortcodes/colection.php:77 ../js_composer/shortcodes/colection.
+#: php:90 ../js_composer/shortcodes/colection.php:123 ..
+#: js_composer/shortcodes/tab-product.php:379 ../js_composer/shortcodes/tab-
+#: product.php:391 ../js_composer/shortcodes/tab-product.php:404 ..
+#: js_composer/shortcodes/tab-product.php:437 ..
+#: js_composer/shortcodes/categories.php:72 ../js_composer/shortcodes/tab-
+#: category.php:132 ../js_composer/shortcodes/tab-category.php:144 ..
+#: js_composer/shortcodes/tab-category.php:167 ../js_composer/shortcodes/tab-
+#: category.php:178 ../js_composer/shortcodes/tab-category.php:190 ..
+#: js_composer/shortcodes/tab-category.php:223 ..
+#: js_composer/shortcodes/products_sidebar.php:421 ..
+#: js_composer/shortcodes/products_sidebar.php:433 ..
+#: js_composer/shortcodes/products_sidebar.php:446 ../js_composer/shortcodes/hot-
+#: deal.php:93 ../js_composer/shortcodes/hot-deal.php:104 ..
+#: js_composer/shortcodes/hot-deal.php:116 ../js_composer/shortcodes/hot-deal.
+#: php:149 ../js_composer/shortcodes/box_product.php:148 ..
+#: js_composer/shortcodes/box_product.php:159 ..
+#: js_composer/shortcodes/box_product.php:171 ..
+#: js_composer/shortcodes/box_product.php:203 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:110 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:122 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:135 ..
+#: js_composer/shortcodes/service.php:86 ../js_composer/shortcodes/lastest_deals.
+#: php:99 ../js_composer/shortcodes/lastest_deals.php:111 ..
+#: js_composer/shortcodes/lastest_deals.php:125 ..
+#: js_composer/shortcodes/lastest_deals.php:156
+msgid "Yes"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:85 ../js_composer/shortcodes/blog.php:97 ..
+#: js_composer/shortcodes/blog.php:110 ../js_composer/shortcodes/blog.php:143 ..
+#: js_composer/shortcodes/hot-deal-tab.php:93 ../js_composer/shortcodes/hot-deal-
+#: tab.php:108 ../js_composer/shortcodes/hot-deal-tab.php:119 ..
+#: js_composer/shortcodes/hot-deal-tab.php:131 ../js_composer/shortcodes/hot-
+#: deal-tab.php:164 ../js_composer/shortcodes/look_books.php:72 ..
+#: js_composer/shortcodes/look_books.php:84 ../js_composer/shortcodes/look_books.
+#: php:97 ../js_composer/shortcodes/look_books.php:130 ..
+#: js_composer/shortcodes/featured_products.php:82 ..
+#: js_composer/shortcodes/featured_products.php:94 ..
+#: js_composer/shortcodes/featured_products.php:107 ..
+#: js_composer/shortcodes/featured_products.php:140 ..
+#: js_composer/shortcodes/category_carousel.php:86 ..
+#: js_composer/shortcodes/category_carousel.php:96 ..
+#: js_composer/shortcodes/category_carousel.php:107 ..
+#: js_composer/shortcodes/category_carousel.php:119 ..
+#: js_composer/shortcodes/category_carousel.php:152 ..
+#: js_composer/shortcodes/brand.php:111 ../js_composer/shortcodes/brand.php:123 .
+#: ./js_composer/shortcodes/brand.php:136 ../js_composer/shortcodes/brand.php:169
+#: ../js_composer/shortcodes/brand.php:215 ../js_composer/shortcodes/brand.php:
+#: 233 ../js_composer/shortcodes/brand.php:252 ../js_composer/shortcodes/brand.
+#: php:303 ../js_composer/shortcodes/colection.php:66 ..
+#: js_composer/shortcodes/colection.php:78 ../js_composer/shortcodes/colection.
+#: php:91 ../js_composer/shortcodes/colection.php:124 ..
+#: js_composer/shortcodes/tab-product.php:358 ../js_composer/shortcodes/tab-
+#: product.php:380 ../js_composer/shortcodes/tab-product.php:392 ..
+#: js_composer/shortcodes/tab-product.php:405 ../js_composer/shortcodes/tab-
+#: product.php:438 ../js_composer/shortcodes/categories.php:73 ..
+#: js_composer/shortcodes/tab-category.php:131 ../js_composer/shortcodes/tab-
+#: category.php:153 ../js_composer/shortcodes/tab-category.php:168 ..
+#: js_composer/shortcodes/tab-category.php:179 ../js_composer/shortcodes/tab-
+#: category.php:191 ../js_composer/shortcodes/tab-category.php:224 ..
+#: js_composer/shortcodes/products_sidebar.php:400 ..
+#: js_composer/shortcodes/products_sidebar.php:422 ..
+#: js_composer/shortcodes/products_sidebar.php:434 ..
+#: js_composer/shortcodes/products_sidebar.php:447 ../js_composer/shortcodes/hot-
+#: deal.php:79 ../js_composer/shortcodes/hot-deal.php:94 ..
+#: js_composer/shortcodes/hot-deal.php:105 ../js_composer/shortcodes/hot-deal.
+#: php:117 ../js_composer/shortcodes/hot-deal.php:150 ..
+#: js_composer/shortcodes/box_product.php:149 ..
+#: js_composer/shortcodes/box_product.php:160 ..
+#: js_composer/shortcodes/box_product.php:172 ..
+#: js_composer/shortcodes/box_product.php:204 ..
+#: js_composer/shortcodes/box_product.php:247 ..
+#: js_composer/shortcodes/list_product.php:64 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:111 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:123 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:136 ..
+#: js_composer/shortcodes/service.php:85 ../js_composer/shortcodes/lastest_deals.
+#: php:100 ../js_composer/shortcodes/lastest_deals.php:112 ..
+#: js_composer/shortcodes/lastest_deals.php:126 ..
+#: js_composer/shortcodes/lastest_deals.php:157
+msgid "No"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:88 ../js_composer/shortcodes/hot-deal-tab.
+#: php:110 ../js_composer/shortcodes/look_books.php:75 ..
+#: js_composer/shortcodes/featured_products.php:85 ..
+#: js_composer/shortcodes/category_carousel.php:98 ..
+#: js_composer/shortcodes/brand.php:114 ../js_composer/shortcodes/brand.php:218 .
+#: ./js_composer/shortcodes/colection.php:69 ../js_composer/shortcodes/tab-
+#: product.php:383 ../js_composer/shortcodes/tab-category.php:170 ..
+#: js_composer/shortcodes/products_sidebar.php:425 ../js_composer/shortcodes/hot-
+#: deal.php:96 ../js_composer/shortcodes/box_product.php:145 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:114 ..
+#: js_composer/shortcodes/lastest_deals.php:103
+msgid "AutoPlay"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:90 ../js_composer/shortcodes/blog.php:103 ..
+#: js_composer/shortcodes/blog.php:116 ../js_composer/shortcodes/blog.php:126 ..
+#: js_composer/shortcodes/blog.php:136 ../js_composer/shortcodes/hot-deal-tab.
+#: php:112 ../js_composer/shortcodes/hot-deal-tab.php:124 ..
+#: js_composer/shortcodes/hot-deal-tab.php:137 ../js_composer/shortcodes/hot-
+#: deal-tab.php:147 ../js_composer/shortcodes/hot-deal-tab.php:157 ..
+#: js_composer/shortcodes/look_books.php:77 ../js_composer/shortcodes/look_books.
+#: php:90 ../js_composer/shortcodes/look_books.php:103 ..
+#: js_composer/shortcodes/look_books.php:113 ..
+#: js_composer/shortcodes/look_books.php:123 ..
+#: js_composer/shortcodes/featured_products.php:87 ..
+#: js_composer/shortcodes/featured_products.php:100 ..
+#: js_composer/shortcodes/featured_products.php:113 ..
+#: js_composer/shortcodes/featured_products.php:123 ..
+#: js_composer/shortcodes/featured_products.php:133 ..
+#: js_composer/shortcodes/category_carousel.php:100 ..
+#: js_composer/shortcodes/category_carousel.php:112 ..
+#: js_composer/shortcodes/category_carousel.php:125 ..
+#: js_composer/shortcodes/category_carousel.php:135 ..
+#: js_composer/shortcodes/category_carousel.php:145 ..
+#: js_composer/shortcodes/brand.php:116 ../js_composer/shortcodes/brand.php:129 .
+#: ./js_composer/shortcodes/brand.php:142 ../js_composer/shortcodes/brand.php:152
+#: ../js_composer/shortcodes/brand.php:162 ../js_composer/shortcodes/colection.
+#: php:71 ../js_composer/shortcodes/colection.php:84 ..
+#: js_composer/shortcodes/colection.php:97 ../js_composer/shortcodes/colection.
+#: php:107 ../js_composer/shortcodes/colection.php:117 ..
+#: js_composer/shortcodes/tab-product.php:385 ../js_composer/shortcodes/tab-
+#: product.php:398 ../js_composer/shortcodes/tab-product.php:411 ..
+#: js_composer/shortcodes/tab-product.php:421 ../js_composer/shortcodes/tab-
+#: product.php:431 ../js_composer/shortcodes/tab-category.php:172 ..
+#: js_composer/shortcodes/tab-category.php:184 ../js_composer/shortcodes/tab-
+#: category.php:197 ../js_composer/shortcodes/tab-category.php:207 ..
+#: js_composer/shortcodes/tab-category.php:217 ..
+#: js_composer/shortcodes/products_sidebar.php:427 ..
+#: js_composer/shortcodes/products_sidebar.php:440 ..
+#: js_composer/shortcodes/products_sidebar.php:453 ..
+#: js_composer/shortcodes/products_sidebar.php:463 ../js_composer/shortcodes/hot-
+#: deal.php:98 ../js_composer/shortcodes/hot-deal.php:110 ..
+#: js_composer/shortcodes/hot-deal.php:123 ../js_composer/shortcodes/hot-deal.
+#: php:133 ../js_composer/shortcodes/hot-deal.php:143 ..
+#: js_composer/shortcodes/box_product.php:139 ..
+#: js_composer/shortcodes/box_product.php:151 ..
+#: js_composer/shortcodes/box_product.php:163 ..
+#: js_composer/shortcodes/box_product.php:175 ..
+#: js_composer/shortcodes/box_product.php:185 ..
+#: js_composer/shortcodes/box_product.php:195 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:116 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:129 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:142 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:152 ..
+#: js_composer/shortcodes/lastest_deals.php:105 ..
+#: js_composer/shortcodes/lastest_deals.php:118 ..
+#: js_composer/shortcodes/lastest_deals.php:132 ..
+#: js_composer/shortcodes/lastest_deals.php:142 ..
+#: js_composer/shortcodes/lastest_deals.php:151
+msgid "Carousel settings"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:100 ../js_composer/shortcodes/hot-deal-tab.
+#: php:121 ../js_composer/shortcodes/look_books.php:87 ..
+#: js_composer/shortcodes/featured_products.php:97 ..
+#: js_composer/shortcodes/category_carousel.php:109 ..
+#: js_composer/shortcodes/brand.php:126 ../js_composer/shortcodes/brand.php:236 .
+#: ./js_composer/shortcodes/colection.php:81 ../js_composer/shortcodes/tab-
+#: product.php:395 ../js_composer/shortcodes/tab-category.php:181 ..
+#: js_composer/shortcodes/products_sidebar.php:437 ../js_composer/shortcodes/hot-
+#: deal.php:107 ../js_composer/shortcodes/box_product.php:156 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:126 ..
+#: js_composer/shortcodes/lastest_deals.php:115
+msgid "Navigation"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:102 ../js_composer/shortcodes/look_books.
+#: php:89 ../js_composer/shortcodes/featured_products.php:99 ..
+#: js_composer/shortcodes/brand.php:128 ../js_composer/shortcodes/brand.php:238 .
+#: ./js_composer/shortcodes/colection.php:83 ../js_composer/shortcodes/tab-
+#: product.php:397 ../js_composer/shortcodes/products_sidebar.php:439 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:128 ..
+#: js_composer/shortcodes/lastest_deals.php:117
+msgid "Show buton 'next' and 'prev' buttons."
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:113 ../js_composer/shortcodes/hot-deal-tab.
+#: php:134 ../js_composer/shortcodes/look_books.php:100 ..
+#: js_composer/shortcodes/featured_products.php:110 ..
+#: js_composer/shortcodes/category_carousel.php:122 ..
+#: js_composer/shortcodes/brand.php:139 ../js_composer/shortcodes/brand.php:255 .
+#: ./js_composer/shortcodes/colection.php:94 ../js_composer/shortcodes/tab-
+#: product.php:408 ../js_composer/shortcodes/tab-category.php:194 ..
+#: js_composer/shortcodes/products_sidebar.php:450 ../js_composer/shortcodes/hot-
+#: deal.php:120 ../js_composer/shortcodes/box_product.php:168 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:139 ..
+#: js_composer/shortcodes/lastest_deals.php:129
+msgid "Loop"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:115 ../js_composer/shortcodes/hot-deal-tab.
+#: php:136 ../js_composer/shortcodes/look_books.php:102 ..
+#: js_composer/shortcodes/featured_products.php:112 ..
+#: js_composer/shortcodes/category_carousel.php:124 ..
+#: js_composer/shortcodes/brand.php:141 ../js_composer/shortcodes/brand.php:257 .
+#: ./js_composer/shortcodes/colection.php:96 ../js_composer/shortcodes/tab-
+#: product.php:410 ../js_composer/shortcodes/tab-category.php:196 ..
+#: js_composer/shortcodes/products_sidebar.php:452 ../js_composer/shortcodes/hot-
+#: deal.php:122 ../js_composer/shortcodes/box_product.php:174 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:141 ..
+#: js_composer/shortcodes/lastest_deals.php:131
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:121 ../js_composer/shortcodes/hot-deal-tab.
+#: php:142 ../js_composer/shortcodes/look_books.php:108 ..
+#: js_composer/shortcodes/featured_products.php:118 ..
+#: js_composer/shortcodes/category_carousel.php:130 ..
+#: js_composer/shortcodes/brand.php:147 ../js_composer/shortcodes/brand.php:269 .
+#: ./js_composer/shortcodes/colection.php:102 ../js_composer/shortcodes/tab-
+#: product.php:416 ../js_composer/shortcodes/tab-category.php:202 ..
+#: js_composer/shortcodes/products_sidebar.php:458 ../js_composer/shortcodes/hot-
+#: deal.php:128 ../js_composer/shortcodes/box_product.php:180 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:147 ..
+#: js_composer/shortcodes/lastest_deals.php:137
+msgid "Slide Speed"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:124 ../js_composer/shortcodes/hot-deal-tab.
+#: php:145 ../js_composer/shortcodes/look_books.php:111 ..
+#: js_composer/shortcodes/featured_products.php:121 ..
+#: js_composer/shortcodes/category_carousel.php:133 ..
+#: js_composer/shortcodes/brand.php:150 ../js_composer/shortcodes/brand.php:272 .
+#: ./js_composer/shortcodes/colection.php:105 ../js_composer/shortcodes/tab-
+#: product.php:419 ../js_composer/shortcodes/tab-category.php:205 ..
+#: js_composer/shortcodes/products_sidebar.php:461 ../js_composer/shortcodes/hot-
+#: deal.php:131 ../js_composer/shortcodes/box_product.php:137 ..
+#: js_composer/shortcodes/box_product.php:183 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:150 ..
+#: js_composer/shortcodes/lastest_deals.php:140
+msgid "milliseconds"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:125 ../js_composer/shortcodes/hot-deal-tab.
+#: php:146 ../js_composer/shortcodes/look_books.php:112 ..
+#: js_composer/shortcodes/featured_products.php:122 ..
+#: js_composer/shortcodes/category_carousel.php:134 ..
+#: js_composer/shortcodes/brand.php:151 ../js_composer/shortcodes/brand.php:273 .
+#: ./js_composer/shortcodes/colection.php:106 ../js_composer/shortcodes/tab-
+#: product.php:420 ../js_composer/shortcodes/tab-category.php:206 ..
+#: js_composer/shortcodes/products_sidebar.php:462 ../js_composer/shortcodes/hot-
+#: deal.php:132 ../js_composer/shortcodes/box_product.php:138 ..
+#: js_composer/shortcodes/box_product.php:184 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:151 ..
+#: js_composer/shortcodes/lastest_deals.php:141
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:131 ../js_composer/shortcodes/hot-deal-tab.
+#: php:152 ../js_composer/shortcodes/look_books.php:118 ..
+#: js_composer/shortcodes/featured_products.php:128 ..
+#: js_composer/shortcodes/category_carousel.php:140 ..
+#: js_composer/shortcodes/brand.php:157 ../js_composer/shortcodes/brand.php:285 .
+#: ./js_composer/shortcodes/colection.php:112 ../js_composer/shortcodes/tab-
+#: product.php:426 ../js_composer/shortcodes/tab-category.php:212 ..
+#: js_composer/shortcodes/hot-deal.php:138 ../js_composer/shortcodes/box_product.
+#: php:190 ../js_composer/shortcodes/lastest_deals.php:146
+msgid "Margin"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:134 ../js_composer/shortcodes/hot-deal-tab.
+#: php:155 ../js_composer/shortcodes/look_books.php:121 ..
+#: js_composer/shortcodes/featured_products.php:131 ..
+#: js_composer/shortcodes/category_carousel.php:143 ..
+#: js_composer/shortcodes/brand.php:160 ../js_composer/shortcodes/brand.php:288 .
+#: ./js_composer/shortcodes/colection.php:115 ../js_composer/shortcodes/tab-
+#: product.php:429 ../js_composer/shortcodes/tab-category.php:215 ..
+#: js_composer/shortcodes/hot-deal.php:141 ../js_composer/shortcodes/box_product.
+#: php:193 ../js_composer/shortcodes/lastest_deals.php:149
+msgid "px"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:135 ../js_composer/shortcodes/hot-deal-tab.
+#: php:156 ../js_composer/shortcodes/look_books.php:122 ..
+#: js_composer/shortcodes/featured_products.php:132 ..
+#: js_composer/shortcodes/category_carousel.php:144 ..
+#: js_composer/shortcodes/brand.php:161 ../js_composer/shortcodes/brand.php:289 .
+#: ./js_composer/shortcodes/colection.php:116 ../js_composer/shortcodes/tab-
+#: product.php:430 ../js_composer/shortcodes/tab-category.php:216 ..
+#: js_composer/shortcodes/hot-deal.php:142 ../js_composer/shortcodes/box_product.
+#: php:194 ../js_composer/shortcodes/lastest_deals.php:150
+msgid "Distance( or space) between 2 item"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:146 ../js_composer/shortcodes/hot-deal-tab.
+#: php:166 ../js_composer/shortcodes/look_books.php:133 ..
+#: js_composer/shortcodes/featured_products.php:143 ..
+#: js_composer/shortcodes/category_carousel.php:154 ..
+#: js_composer/shortcodes/brand.php:172 ../js_composer/shortcodes/brand.php:306 .
+#: ./js_composer/shortcodes/colection.php:127 ../js_composer/shortcodes/tab-
+#: product.php:441 ../js_composer/shortcodes/tab-category.php:226 ..
+#: js_composer/shortcodes/hot-deal.php:152 ../js_composer/shortcodes/box_product.
+#: php:200 ../js_composer/shortcodes/lastest_deals.php:160
+msgid "Use Carousel Responsive"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:148 ../js_composer/shortcodes/hot-deal-tab.
+#: php:168 ../js_composer/shortcodes/look_books.php:135 ..
+#: js_composer/shortcodes/featured_products.php:145 ..
+#: js_composer/shortcodes/category_carousel.php:156 ..
+#: js_composer/shortcodes/brand.php:174 ../js_composer/shortcodes/brand.php:308 .
+#: ./js_composer/shortcodes/colection.php:129 ../js_composer/shortcodes/tab-
+#: product.php:443 ../js_composer/shortcodes/tab-category.php:228 ..
+#: js_composer/shortcodes/hot-deal.php:154 ../js_composer/shortcodes/box_product.
+#: php:207 ../js_composer/shortcodes/lastest_deals.php:162
+msgid ""
+"Try changing your browser width to see what happens with Items and "
+"Navigations"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:149 ../js_composer/shortcodes/blog.php:159 .
+#: ./js_composer/shortcodes/blog.php:169 ../js_composer/shortcodes/blog.php:179 ..
+#: js_composer/shortcodes/hot-deal-tab.php:169 ../js_composer/shortcodes/hot-
+#: deal-tab.php:179 ../js_composer/shortcodes/hot-deal-tab.php:189 ..
+#: js_composer/shortcodes/hot-deal-tab.php:199 ..
+#: js_composer/shortcodes/look_books.php:136 ..
+#: js_composer/shortcodes/look_books.php:146 ..
+#: js_composer/shortcodes/look_books.php:156 ..
+#: js_composer/shortcodes/look_books.php:166 ..
+#: js_composer/shortcodes/featured_products.php:146 ..
+#: js_composer/shortcodes/featured_products.php:156 ..
+#: js_composer/shortcodes/featured_products.php:166 ..
+#: js_composer/shortcodes/featured_products.php:176 ..
+#: js_composer/shortcodes/category_carousel.php:157 ..
+#: js_composer/shortcodes/category_carousel.php:167 ..
+#: js_composer/shortcodes/category_carousel.php:177 ..
+#: js_composer/shortcodes/category_carousel.php:187 ..
+#: js_composer/shortcodes/brand.php:175 ../js_composer/shortcodes/brand.php:185 .
+#: ./js_composer/shortcodes/brand.php:195 ../js_composer/shortcodes/brand.php:205
+#: ../js_composer/shortcodes/colection.php:130 ..
+#: js_composer/shortcodes/colection.php:140 ../js_composer/shortcodes/colection.
+#: php:150 ../js_composer/shortcodes/colection.php:160 ..
+#: js_composer/shortcodes/tab-product.php:444 ../js_composer/shortcodes/tab-
+#: product.php:454 ../js_composer/shortcodes/tab-product.php:464 ..
+#: js_composer/shortcodes/tab-product.php:474 ..
+#: js_composer/shortcodes/categories.php:84 ../js_composer/shortcodes/categories.
+#: php:94 ../js_composer/shortcodes/categories.php:104 ..
+#: js_composer/shortcodes/tab-category.php:229 ../js_composer/shortcodes/tab-
+#: category.php:239 ../js_composer/shortcodes/tab-category.php:249 ..
+#: js_composer/shortcodes/tab-category.php:259 ../js_composer/shortcodes/tab-
+#: category.php:269 ../js_composer/shortcodes/hot-deal.php:155 ..
+#: js_composer/shortcodes/hot-deal.php:165 ../js_composer/shortcodes/hot-deal.
+#: php:175 ../js_composer/shortcodes/hot-deal.php:185 ..
+#: js_composer/shortcodes/box_product.php:208 ..
+#: js_composer/shortcodes/box_product.php:218 ..
+#: js_composer/shortcodes/box_product.php:228 ..
+#: js_composer/shortcodes/box_product.php:238 ..
+#: js_composer/shortcodes/lastest_deals.php:163 ..
+#: js_composer/shortcodes/lastest_deals.php:173 ..
+#: js_composer/shortcodes/lastest_deals.php:182 ..
+#: js_composer/shortcodes/lastest_deals.php:191
+msgid "Carousel responsive"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:154 ../js_composer/shortcodes/hot-deal-tab.
+#: php:174 ../js_composer/shortcodes/look_books.php:141 ..
+#: js_composer/shortcodes/featured_products.php:151 ..
+#: js_composer/shortcodes/category_carousel.php:162 ..
+#: js_composer/shortcodes/brand.php:180 ../js_composer/shortcodes/brand.php:320 .
+#: ./js_composer/shortcodes/colection.php:135 ../js_composer/shortcodes/tab-
+#: product.php:449 ../js_composer/shortcodes/categories.php:79 ..
+#: js_composer/shortcodes/tab-category.php:234 ../js_composer/shortcodes/hot-
+#: deal.php:160 ../js_composer/shortcodes/box_product.php:213 ..
+#: js_composer/shortcodes/lastest_deals.php:168
+msgid "The items on destop (Screen resolution of device >= 992px )"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:157 ../js_composer/shortcodes/blog.php:167 .
+#: ./js_composer/shortcodes/blog.php:177 ../js_composer/shortcodes/hot-deal-tab.
+#: php:177 ../js_composer/shortcodes/hot-deal-tab.php:187 ..
+#: js_composer/shortcodes/hot-deal-tab.php:197 ..
+#: js_composer/shortcodes/look_books.php:144 ..
+#: js_composer/shortcodes/look_books.php:154 ..
+#: js_composer/shortcodes/look_books.php:164 ..
+#: js_composer/shortcodes/featured_products.php:154 ..
+#: js_composer/shortcodes/featured_products.php:164 ..
+#: js_composer/shortcodes/featured_products.php:174 ..
+#: js_composer/shortcodes/category_carousel.php:165 ..
+#: js_composer/shortcodes/category_carousel.php:175 ..
+#: js_composer/shortcodes/category_carousel.php:185 ..
+#: js_composer/shortcodes/brand.php:183 ../js_composer/shortcodes/brand.php:193 .
+#: ./js_composer/shortcodes/brand.php:203 ../js_composer/shortcodes/brand.php:323
+#: ../js_composer/shortcodes/brand.php:339 ../js_composer/shortcodes/brand.php:
+#: 355 ../js_composer/shortcodes/colection.php:138 ..
+#: js_composer/shortcodes/colection.php:148 ../js_composer/shortcodes/colection.
+#: php:158 ../js_composer/shortcodes/tab-product.php:452 ..
+#: js_composer/shortcodes/tab-product.php:462 ../js_composer/shortcodes/tab-
+#: product.php:472 ../js_composer/shortcodes/categories.php:82 ..
+#: js_composer/shortcodes/categories.php:92 ../js_composer/shortcodes/categories.
+#: php:102 ../js_composer/shortcodes/tab-category.php:237 ..
+#: js_composer/shortcodes/tab-category.php:247 ../js_composer/shortcodes/tab-
+#: category.php:257 ../js_composer/shortcodes/tab-category.php:267 ..
+#: js_composer/shortcodes/hot-deal.php:163 ../js_composer/shortcodes/hot-deal.
+#: php:173 ../js_composer/shortcodes/hot-deal.php:183 ..
+#: js_composer/shortcodes/box_product.php:216 ..
+#: js_composer/shortcodes/box_product.php:226 ..
+#: js_composer/shortcodes/box_product.php:236 ..
+#: js_composer/shortcodes/lastest_deals.php:171 ..
+#: js_composer/shortcodes/lastest_deals.php:180 ..
+#: js_composer/shortcodes/lastest_deals.php:189
+msgid "item"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:158 ../js_composer/shortcodes/blog.php:168 .
+#: ./js_composer/shortcodes/hot-deal-tab.php:178 ../js_composer/shortcodes/hot-
+#: deal-tab.php:188 ../js_composer/shortcodes/look_books.php:145 ..
+#: js_composer/shortcodes/look_books.php:155 ..
+#: js_composer/shortcodes/featured_products.php:155 ..
+#: js_composer/shortcodes/featured_products.php:165 ..
+#: js_composer/shortcodes/category_carousel.php:166 ..
+#: js_composer/shortcodes/category_carousel.php:176 ..
+#: js_composer/shortcodes/brand.php:184 ../js_composer/shortcodes/brand.php:194 .
+#: ./js_composer/shortcodes/brand.php:324 ../js_composer/shortcodes/brand.php:340
+#: ../js_composer/shortcodes/colection.php:139 ..
+#: js_composer/shortcodes/colection.php:149 ../js_composer/shortcodes/tab-
+#: product.php:453 ../js_composer/shortcodes/tab-product.php:463 ..
+#: js_composer/shortcodes/categories.php:83 ../js_composer/shortcodes/categories.
+#: php:93 ../js_composer/shortcodes/tab-category.php:238 ..
+#: js_composer/shortcodes/tab-category.php:248 ../js_composer/shortcodes/tab-
+#: category.php:258 ../js_composer/shortcodes/hot-deal.php:164 ..
+#: js_composer/shortcodes/hot-deal.php:174 ../js_composer/shortcodes/box_product.
+#: php:217 ../js_composer/shortcodes/box_product.php:227
+msgid "The number of items on destop"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:164 ../js_composer/shortcodes/hot-deal-tab.
+#: php:184 ../js_composer/shortcodes/look_books.php:151 ..
+#: js_composer/shortcodes/featured_products.php:161 ..
+#: js_composer/shortcodes/category_carousel.php:172 ..
+#: js_composer/shortcodes/brand.php:190 ../js_composer/shortcodes/brand.php:336 .
+#: ./js_composer/shortcodes/colection.php:145 ../js_composer/shortcodes/tab-
+#: product.php:459 ../js_composer/shortcodes/categories.php:89 ..
+#: js_composer/shortcodes/hot-deal.php:170 ../js_composer/shortcodes/box_product.
+#: php:223 ../js_composer/shortcodes/lastest_deals.php:177
+msgid "The items on tablet (Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:174 ../js_composer/shortcodes/hot-deal-tab.
+#: php:194 ../js_composer/shortcodes/look_books.php:161 ..
+#: js_composer/shortcodes/featured_products.php:171 ..
+#: js_composer/shortcodes/category_carousel.php:182 ..
+#: js_composer/shortcodes/brand.php:200 ../js_composer/shortcodes/brand.php:352 .
+#: ./js_composer/shortcodes/colection.php:155 ../js_composer/shortcodes/tab-
+#: product.php:469 ../js_composer/shortcodes/categories.php:99 ..
+#: js_composer/shortcodes/tab-category.php:264 ../js_composer/shortcodes/hot-
+#: deal.php:180 ../js_composer/shortcodes/box_product.php:233 ..
+#: js_composer/shortcodes/lastest_deals.php:186
+msgid "The items on mobile (Screen resolution of device < 768px)"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:178 ../js_composer/shortcodes/hot-deal-tab.
+#: php:198 ../js_composer/shortcodes/look_books.php:165 ..
+#: js_composer/shortcodes/featured_products.php:175 ..
+#: js_composer/shortcodes/category_carousel.php:186 ..
+#: js_composer/shortcodes/brand.php:204 ../js_composer/shortcodes/brand.php:356 .
+#: ./js_composer/shortcodes/colection.php:159 ../js_composer/shortcodes/tab-
+#: product.php:473 ../js_composer/shortcodes/categories.php:103 ..
+#: js_composer/shortcodes/tab-category.php:268 ../js_composer/shortcodes/hot-
+#: deal.php:184 ../js_composer/shortcodes/box_product.php:237
+msgid "The numbers of item on destop"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:198
+msgid "From the blog"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:380 ../js_composer/shortcodes/blog.php:422
+msgid "0 Comment"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:381 ../js_composer/shortcodes/blog.php:423
+msgid "1 Comment"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:382 ../js_composer/shortcodes/blog.php:424
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:387 ../js_composer/shortcodes/blog.php:429 .
+#: ./js_composer/shortcodes/blog.php:492 ../js_composer/shortcodes/blog.php:500
+msgid "Readmore"
+msgstr ""
+
+#: ../js_composer/shortcodes/blog.php:460
+msgid "Read more"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:6
+msgid "Hot Deal Tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:9
+msgid "Show tab hot deal"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:22 ..
+#: js_composer/shortcodes/featured_products.php:26 ..
+#: js_composer/shortcodes/brand.php:27 ../js_composer/shortcodes/tab-product.php:
+#: 312 ../js_composer/shortcodes/tab-category.php:22 ..
+#: js_composer/shortcodes/hot-deal.php:19 ../js_composer/shortcodes/box_product.
+#: php:46 ../js_composer/shortcodes/lastest_deals_sidebar.php:28 ..
+#: js_composer/shortcodes/lastest_deals.php:39
+msgid "Product Size"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:26 ..
+#: js_composer/shortcodes/featured_products.php:30 ..
+#: js_composer/shortcodes/brand.php:31 ../js_composer/shortcodes/tab-product.php:
+#: 316 ../js_composer/shortcodes/tab-category.php:26 ..
+#: js_composer/shortcodes/hot-deal.php:23 ../js_composer/shortcodes/box_product.
+#: php:50 ../js_composer/shortcodes/lastest_deals_sidebar.php:32 ..
+#: js_composer/shortcodes/lastest_deals.php:43
+msgid "Product size"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:38 ../js_composer/shortcodes/brand.
+#: php:55 ../js_composer/shortcodes/products_sidebar.php:302 ..
+#: js_composer/shortcodes/box_product.php:33
+msgid "Style"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:51 ..
+#: js_composer/shortcodes/category_carousel.php:34 ..
+#: js_composer/shortcodes/colection.php:38 ../js_composer/shortcodes/tab-product.
+#: php:301 ../js_composer/shortcodes/categories.php:28 ..
+#: js_composer/shortcodes/tab-category.php:308 ..
+#: js_composer/shortcodes/products_sidebar.php:369 ../js_composer/shortcodes/hot-
+#: deal.php:37 ../js_composer/shortcodes/box_product.php:57 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:56 ..
+#: js_composer/shortcodes/popular-cat.php:46 ../js_composer/shortcodes/service.
+#: php:23 ../js_composer/shortcodes/lastest_deals.php:29
+msgid "Category"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:56 ..
+#: js_composer/shortcodes/category_carousel.php:39 ..
+#: js_composer/shortcodes/brand.php:43 ../js_composer/shortcodes/colection.php:
+#: 44 ../js_composer/shortcodes/tab-product.php:307 ..
+#: js_composer/shortcodes/categories.php:33 ..
+#: js_composer/shortcodes/products_sidebar.php:375 ../js_composer/shortcodes/hot-
+#: deal.php:42 ../js_composer/shortcodes/box_product.php:62 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:61 ..
+#: js_composer/shortcodes/popular-cat.php:51 ../js_composer/shortcodes/service.
+#: php:28 ../js_composer/shortcodes/lastest_deals.php:34
+msgid "Choose categoy"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:57 ../js_composer/shortcodes/brand.
+#: php:44 ../js_composer/shortcodes/hot-deal.php:43 ..
+#: js_composer/shortcodes/box_product.php:63 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:62
+msgid ""
+"Note: Selected categories will be hide if it empty. Only selected categories "
+"will be displayed."
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:89 ../js_composer/shortcodes/tab-
+#: product.php:354 ../js_composer/shortcodes/tab-category.php:149 ..
+#: js_composer/shortcodes/products_sidebar.php:396 ../js_composer/shortcodes/hot-
+#: deal.php:75 ../js_composer/shortcodes/box_product.php:243 ..
+#: js_composer/shortcodes/list_product.php:60
+msgid "CSS Animation"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:94 ../js_composer/shortcodes/tab-
+#: product.php:359 ../js_composer/shortcodes/tab-category.php:154 ..
+#: js_composer/shortcodes/products_sidebar.php:401 ../js_composer/shortcodes/hot-
+#: deal.php:80 ../js_composer/shortcodes/box_product.php:248 ..
+#: js_composer/shortcodes/list_product.php:65
+msgid "Top to bottom"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:95 ../js_composer/shortcodes/tab-
+#: product.php:360 ../js_composer/shortcodes/tab-category.php:155 ..
+#: js_composer/shortcodes/products_sidebar.php:402 ../js_composer/shortcodes/hot-
+#: deal.php:81 ../js_composer/shortcodes/box_product.php:249 ..
+#: js_composer/shortcodes/list_product.php:66
+msgid "Bottom to top"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:96 ../js_composer/shortcodes/tab-
+#: product.php:361 ../js_composer/shortcodes/tab-category.php:156 ..
+#: js_composer/shortcodes/products_sidebar.php:403 ../js_composer/shortcodes/hot-
+#: deal.php:82 ../js_composer/shortcodes/box_product.php:250 ..
+#: js_composer/shortcodes/list_product.php:67
+msgid "Left to right"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:97 ../js_composer/shortcodes/tab-
+#: product.php:362 ../js_composer/shortcodes/tab-category.php:157 ..
+#: js_composer/shortcodes/products_sidebar.php:404 ../js_composer/shortcodes/hot-
+#: deal.php:83 ../js_composer/shortcodes/box_product.php:251 ..
+#: js_composer/shortcodes/list_product.php:68
+msgid "Right to left"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:98 ../js_composer/shortcodes/tab-
+#: product.php:363 ../js_composer/shortcodes/tab-category.php:158 ..
+#: js_composer/shortcodes/products_sidebar.php:405 ../js_composer/shortcodes/hot-
+#: deal.php:84 ../js_composer/shortcodes/box_product.php:252 ..
+#: js_composer/shortcodes/list_product.php:69
+msgid "Appear from center"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:100 ../js_composer/shortcodes/tab-
+#: product.php:365 ../js_composer/shortcodes/tab-category.php:160 ..
+#: js_composer/shortcodes/products_sidebar.php:407 ../js_composer/shortcodes/hot-
+#: deal.php:86 ../js_composer/shortcodes/box_product.php:254 ..
+#: js_composer/shortcodes/list_product.php:71
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:123 ..
+#: js_composer/shortcodes/category_carousel.php:111 ..
+#: js_composer/shortcodes/tab-category.php:183 ../js_composer/shortcodes/hot-
+#: deal.php:109 ../js_composer/shortcodes/box_product.php:162
+msgid "Don't display 'next' and 'prev' buttons."
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:220 ../js_composer/shortcodes/tab-
+#: category.php:284
+msgid "Section Tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:234
+msgid "Reduction from"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:237 ../js_composer/shortcodes/hot-
+#: deal-tab.php:246
+msgid "%"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:238
+msgid "The reduction from"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:243
+msgid "Reduction to"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:247
+msgid "The reduction to"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:343 ../js_composer/shortcodes/hot-
+#: deal.php:292
+msgid "hot"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:344 ../js_composer/shortcodes/hot-
+#: deal.php:293
+msgid "deals"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:373 ../js_composer/shortcodes/hot-
+#: deal-tab.php:395
+msgid "Tab name"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal-tab.php:483 ..
+#: js_composer/shortcodes/box_product.php:795
+msgid "Empty product"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:6
+msgid "KT Look Books"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:9 ..
+#: js_composer/shortcodes/adv_banner.php:9
+msgid "Display a banner text"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:19 ../js_composer/shortcodes/tab-
+#: product.php:332 ../js_composer/shortcodes/products_sidebar.php:388 ..
+#: js_composer/shortcodes/testimonial.php:31
+msgid "Per page"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:27 ..
+#: js_composer/shortcodes/testimonial.php:39
+msgid "Overlay color"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:34 ..
+#: js_composer/shortcodes/testimonial.php:47
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:36 ..
+#: js_composer/shortcodes/testimonial.php:49
+msgid "0.1"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:37 ..
+#: js_composer/shortcodes/testimonial.php:50
+msgid "0.2"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:38 ..
+#: js_composer/shortcodes/testimonial.php:51
+msgid "0.3"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:39 ..
+#: js_composer/shortcodes/testimonial.php:52
+msgid "0.4"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:40 ..
+#: js_composer/shortcodes/testimonial.php:53
+msgid "0.5"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:41 ..
+#: js_composer/shortcodes/testimonial.php:54
+msgid "0.6"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:42 ..
+#: js_composer/shortcodes/testimonial.php:55
+msgid "0.7"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:43 ..
+#: js_composer/shortcodes/testimonial.php:56
+msgid "0.8"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:44 ..
+#: js_composer/shortcodes/testimonial.php:57
+msgid "0.9"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:45 ..
+#: js_composer/shortcodes/testimonial.php:58
+msgid "1"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:53
+msgid "Link submit photos"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:57
+msgid "You can set the custom link you want."
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:298
+msgid "Submit Your Photos"
+msgstr ""
+
+#: ../js_composer/shortcodes/look_books.php:302
+msgid "No Look Book item."
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:12
+msgid "KT Featured Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:15
+msgid "Display Featured Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:22 ..
+#: js_composer/shortcodes/colection.php:22
+msgid "Display title box featured"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:34 ..
+#: js_composer/shortcodes/colection.php:26
+msgid "Display  type"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:45
+msgid "Box Type"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:50 ..
+#: js_composer/shortcodes/tab-category.php:140
+msgid "Featured"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:51 ..
+#: js_composer/shortcodes/box_product.php:28
+msgid "By IDs"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:56
+msgid "IDs"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:59
+msgid "Enter your product ID and separate by a commas \",\". Ex: 1,2,3..."
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:64 ..
+#: js_composer/shortcodes/category_carousel.php:51 ..
+#: js_composer/shortcodes/colection.php:49 ../js_composer/shortcodes/categories.
+#: php:38
+msgid "Number"
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:68
+msgid "The number of products put out from your store."
+msgstr ""
+
+#: ../js_composer/shortcodes/featured_products.php:196 ..
+#: js_composer/shortcodes/categories.php:126
+msgid "Hot Categories"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:13
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:16
+msgid "Display box categories same hot categories in option 11"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:26
+msgid "Sub title"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:40 ..
+#: js_composer/shortcodes/colection.php:45 ../js_composer/shortcodes/tab-product.
+#: php:308 ../js_composer/shortcodes/categories.php:34 ..
+#: js_composer/shortcodes/products_sidebar.php:376 ..
+#: js_composer/shortcodes/popular-cat.php:52 ../js_composer/shortcodes/service.
+#: php:29 ../js_composer/shortcodes/lastest_deals.php:35
+msgid ""
+"Note: If you want to narrow output, select category(s) above. Only selected "
+"categories will be displayed."
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:44 ..
+#: js_composer/shortcodes/banner-title.php:57
+msgid "Banner Image"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:47 ..
+#: js_composer/shortcodes/banner-title.php:60
+msgid "It shows the image of banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:55 ..
+#: js_composer/shortcodes/categories.php:42
+msgid "The `number` field is used to display the number of subcategory."
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:62 ..
+#: js_composer/shortcodes/categories.php:49
+msgid "Id"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:63 ..
+#: js_composer/shortcodes/categories.php:50
+msgid "Count"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:65 ..
+#: js_composer/shortcodes/categories.php:52
+msgid "Slug"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:66 ..
+#: js_composer/shortcodes/categories.php:53
+msgid "Term Group "
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:72 ..
+#: js_composer/shortcodes/categories.php:59
+msgid "Order Way"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:75 ..
+#: js_composer/shortcodes/categories.php:62
+msgid "Descending"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:76 ..
+#: js_composer/shortcodes/categories.php:63
+msgid "Ascending"
+msgstr ""
+
+#: ../js_composer/shortcodes/category_carousel.php:82 ..
+#: js_composer/shortcodes/categories.php:69
+msgid "Hide Empty"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:13 ../js_composer/shortcodes/brand.php:38
+msgid "Brands"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:16
+msgid "Display brand showcase"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:23
+msgid "Show tittle when \"show product\" is not checked"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:58
+msgid ""
+"Yes, Box product will show by brand. If It's checked then Null value title "
+"is not allow"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:63
+msgid "Show 1 Line"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:64
+msgid "Show 2 Line"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:65
+msgid "Show logo style 1"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:66
+msgid "Show logo style 2"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:68
+msgid "Line"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:220 ../js_composer/shortcodes/brand.php:
+#: 239 ../js_composer/shortcodes/brand.php:258 ../js_composer/shortcodes/brand.
+#: php:274 ../js_composer/shortcodes/brand.php:290
+msgid "Product Carousel settings"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:309 ../js_composer/shortcodes/brand.php:
+#: 325 ../js_composer/shortcodes/brand.php:341 ../js_composer/shortcodes/brand.
+#: php:357
+msgid "Product Carousel responsive"
+msgstr ""
+
+#: ../js_composer/shortcodes/brand.php:778 ../js_composer/shortcodes/brand.php:880
+msgid "Empty Product"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:6
+msgid "KT Single product"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:9
+msgid "Display a product"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:19 ../js_composer/shortcodes/banner-
+#: title.php:22
+msgid "Product ID"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:26 ../js_composer/shortcodes/banner-
+#: title.php:74
+msgid "Disable"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:27 ../js_composer/shortcodes/banner-
+#: title.php:75
+msgid "Enable"
+msgstr ""
+
+#: ../js_composer/shortcodes/kt-product.php:29 ../js_composer/shortcodes/banner-
+#: title.php:77
+msgid "Enable CountDown"
+msgstr ""
+
+#: ../js_composer/shortcodes/colection.php:12
+msgid "KT Colections"
+msgstr ""
+
+#: ../js_composer/shortcodes/colection.php:15
+msgid "Display colections"
+msgstr ""
+
+#: ../js_composer/shortcodes/colection.php:53
+msgid "The number of colection put out from your site."
+msgstr ""
+
+#: ../js_composer/shortcodes/colection.php:331 ..
+#: js_composer/shortcodes/colection.php:344
+msgid "Designed by"
+msgstr ""
+
+#: ../js_composer/shortcodes/colection.php:365
+msgid "No colection"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:70 ../js_composer/shortcodes/tab-
+#: category.php:303 ../js_composer/shortcodes/tab-category.php:565 ..
+#: js_composer/shortcodes/tab-category.php:568 ..
+#: js_composer/shortcodes/products_sidebar.php:58 ..
+#: js_composer/shortcodes/products_sidebar.php:318
+msgid "Best Sellers"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:292
+msgid "Tab Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:295 ..
+#: js_composer/shortcodes/list_product.php:16
+msgid "Show product in tab best sellers, on sales, new products on option 1"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:321
+msgid "Style display"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:335 ..
+#: js_composer/shortcodes/products_sidebar.php:391 ..
+#: js_composer/shortcodes/list_product.php:23
+msgid "The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:340
+msgid "Columns"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:342
+msgid "3 Colmns"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:343
+msgid "4 Colmns"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:344
+msgid "5 Colmns"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:345
+msgid "6 Colmns"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:349
+msgid ""
+"The columns attribute controls how many columns wide the products should be "
+"before wrapping."
+msgstr ""
+
+#: ../js_composer/shortcodes/categories.php:16
+msgid "Display box categories same hot categories in option 1"
+msgstr ""
+
+#: ../js_composer/shortcodes/categories.php:23
+msgid "Display title box categories"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:7
+msgid "KT Banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:10
+msgid "Display a banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:14
+msgid "Banner Style"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:32
+msgid "Show text and background"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:35
+msgid "Hide Background"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:50 ..
+#: js_composer/shortcodes/adv_banner.php:19
+msgid "SubTitle"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:65 ..
+#: js_composer/shortcodes/adv_banner.php:38
+msgid "Link"
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:68
+msgid "It shows the link."
+msgstr ""
+
+#: ../js_composer/shortcodes/banner-title.php:84
+msgid "Countdown text"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:6
+msgid "Categories Tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:9
+msgid "Show tab categories"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:39
+msgid "Column"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:43
+msgid "Number column display"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:47
+msgid "Tabs Type"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:52
+msgid "Tab 1"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:53
+msgid "Tab 2"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:54
+msgid "Tab 3"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:55
+msgid "Tab 4"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:56
+msgid "Tab 5"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:57
+msgid "Tab 6"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:58
+msgid "Tab 7"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:64 ../js_composer/shortcodes/tab-
+#: category.php:315 ../js_composer/shortcodes/list_product.php:29
+msgid "Choose Category"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:71
+msgid "Left"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:72
+msgid "Right"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:75
+msgid "Align"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:83
+msgid "The items subcategory on per slide"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:86
+msgid "subcategory"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:87
+msgid "The number of items subcategory on per slide"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:93 ..
+#: js_composer/shortcodes/box_product.php:114
+msgid "Main Color"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:100
+msgid "Icon"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:103
+msgid "Setup icon for the tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:108 ..
+#: js_composer/shortcodes/adv_banner.php:25
+msgid "Background Image"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:111
+msgid "Setup background for box"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:115
+msgid "Banner top"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:118
+msgid "Setup image on  top of the tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:123
+msgid "Banner left"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:126 ../js_composer/shortcodes/tab-
+#: category.php:143
+msgid "Setup image on  left of the tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:134
+msgid "Enable AJAX"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:244
+msgid ""
+"The items on tablet lanscape (Screen resolution of device >=768px and < "
+"992px )"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:254
+msgid ""
+"The items on tablet portrait (Screen resolution of device >=480px and < "
+"768px )"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:298
+msgid "Section Type"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:304 ../js_composer/shortcodes/tab-
+#: category.php:555 ../js_composer/shortcodes/products_sidebar.php:319 ..
+#: js_composer/shortcodes/box_product.php:369 ..
+#: js_composer/shortcodes/list_product.php:54
+msgid "Most Reviews"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:305 ../js_composer/shortcodes/tab-
+#: category.php:553 ../js_composer/shortcodes/products_sidebar.php:320 ..
+#: js_composer/shortcodes/box_product.php:26 ..
+#: js_composer/shortcodes/box_product.php:363 ..
+#: js_composer/shortcodes/box_product.php:380
+msgid "New Arrivals"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:307 ..
+#: js_composer/shortcodes/products_sidebar.php:322
+msgid "By Ids"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:309 ..
+#: js_composer/shortcodes/products_sidebar.php:323
+msgid "Custom"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:332 ..
+#: js_composer/shortcodes/products_sidebar.php:338
+msgid "Sale Price"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:340 ..
+#: js_composer/shortcodes/products_sidebar.php:346 ..
+#: js_composer/shortcodes/box_product.php:68
+msgid "Ids"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:343 ..
+#: js_composer/shortcodes/products_sidebar.php:349 ..
+#: js_composer/shortcodes/box_product.php:71
+msgid "Get product by list ids.( Input IDs which separated by a comma ',' )"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-category.php:559
+msgid "Tab"
+msgstr ""
+
+#: ../js_composer/shortcodes/products_sidebar.php:289
+msgid "Products Sidebar"
+msgstr ""
+
+#: ../js_composer/shortcodes/products_sidebar.php:292
+msgid "Show product best sellers, on sales, new products on sidebar option 12"
+msgstr ""
+
+#: ../js_composer/shortcodes/products_sidebar.php:313
+msgid "Target"
+msgstr ""
+
+#: ../js_composer/shortcodes/products_sidebar.php:380
+msgid "Quantity"
+msgstr ""
+
+#: ../js_composer/shortcodes/products_sidebar.php:383
+msgid "The number of product has been taken"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal.php:6
+msgid "Hot Deal"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal.php:9
+msgid "Show box hot deal"
+msgstr ""
+
+#: ../js_composer/shortcodes/hot-deal.php:211
+msgid "Hot deal"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:6
+msgid "Box Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:9
+msgid "Show list product in box hot deal, best selling,..."
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:19 ..
+#: js_composer/shortcodes/list_product.php:48 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:36 ..
+#: js_composer/shortcodes/popular-cat.php:26 ..
+#: js_composer/shortcodes/testimonial.php:19
+msgid "Type"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:24 ..
+#: js_composer/shortcodes/box_product.php:350
+msgid "Hot Deals"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:25
+msgid "Best selling"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:27
+msgid "Most Review"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:86
+msgid "Discount"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:94
+msgid "Order way"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:120
+msgid "Banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:122
+msgid "Setup banner for the box on bottom"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:127
+msgid "Banner Link"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:134
+msgid "Slide Speed Banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:357
+msgid "Best Selling"
+msgstr ""
+
+#: ../js_composer/shortcodes/box_product.php:484
+msgid "All"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:13
+msgid "List Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:21
+msgid "Special Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:35 ..
+#: js_composer/shortcodes/lastest_deals_sidebar.php:66 ..
+#: js_composer/shortcodes/lastest_deals.php:48
+msgid "Number Product"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:39
+msgid "2 Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:40
+msgid "3 Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:41
+msgid "4 Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:42
+msgid "6 Products"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:44
+msgid "The total number of pages."
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:52
+msgid "Best saler"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:53
+msgid "New arrivals"
+msgstr ""
+
+#: ../js_composer/shortcodes/list_product.php:56
+msgid "Select type query of product"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals_sidebar.php:14
+msgid "Lastest Deals"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals_sidebar.php:17
+msgid "Show lastest deal products in sidebar"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals_sidebar.php:24
+msgid "Display title lastest deal box, It's hidden when empty"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals_sidebar.php:47
+msgid "Countdown Color"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals_sidebar.php:69 ..
+#: js_composer/shortcodes/lastest_deals.php:51
+msgid "Enter number of Product"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:13
+msgid "Popular Category"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:16
+msgid "Display popular category"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:37
+msgid "Box background"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:40
+msgid "Setup background for the box"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:56
+msgid "Number Child Category"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:60
+msgid "Number child category be showed"
+msgstr ""
+
+#: ../js_composer/shortcodes/popular-cat.php:176
+msgid "More"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:14
+msgid "Service"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:17
+msgid "Display service box"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:33
+msgid "Items"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:37
+msgid "Display of items"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:78
+msgid "The description"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:82
+msgid "Hide Border"
+msgstr ""
+
+#: ../js_composer/shortcodes/service.php:89
+msgid "Hide border service box"
+msgstr ""
+
+#: ../js_composer/shortcodes/adv_banner.php:6
+msgid "KT Banner text"
+msgstr ""
+
+#: ../js_composer/shortcodes/adv_banner.php:28
+msgid "It shows background image of banner"
+msgstr ""
+
+#: ../js_composer/shortcodes/adv_banner.php:32
+msgid "Button text"
+msgstr ""
+
+#: ../js_composer/shortcodes/adv_banner.php:41
+msgid "It shows link."
+msgstr ""
+
+#: ../js_composer/shortcodes/testimonial.php:6
+msgid "KT Testimonial"
+msgstr ""
+
+#: ../js_composer/shortcodes/testimonial.php:9
+msgid "Display a Testimonial slide"
+msgstr ""
+
+#: ../js_composer/shortcodes/testimonial.php:67
+msgid "Main color"
+msgstr ""
+
+#: ../js_composer/shortcodes/testimonial.php:75
+msgid "Text color"
+msgstr ""
+
+#: ../js_composer/shortcodes/testimonial.php:103
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:13
+msgid "Lastest Deal Products Carousel"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:16
+msgid "List lastest deal product are display by owl carousel"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:23
+msgid "It displays title list product"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:55
+msgid "Product per columns"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:58
+msgid "Enter number product on columns"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:172 ..
+#: js_composer/shortcodes/lastest_deals.php:181 ..
+#: js_composer/shortcodes/lastest_deals.php:190
+msgid "The number of item on destop"
+msgstr ""
+
+#: ../js_composer/shortcodes/lastest_deals.php:323
+msgid "end in"
+msgstr ""
+
+#: ../Tax-meta-class/Tax-meta-class.php:358 ../Tax-meta-class/Tax-meta-class.php:
+#: 358
+msgid "Add"
+msgstr ""
+
+#: ../Tax-meta-class/Tax-meta-class.php:701
+msgid "Upload Image"
+msgstr ""
+
+#: ../Tax-meta-class/Tax-meta-class.php:721
+msgid "Select a color"
+msgstr ""
+
+#: ../js_composer/shortcodes/tab-product.php:71
+msgid "On Sale"
+msgstr "حراج"
+
+#: ../js_composer/shortcodes/tab-product.php:72 ..
+#: js_composer/shortcodes/products_sidebar.php:60
+msgid "New Products"
+msgstr "محصولات جدید"
+
+#: ../js_composer/shortcodes/tab-category.php:306 ..
+#: js_composer/shortcodes/products_sidebar.php:59 ..
+#: js_composer/shortcodes/products_sidebar.php:321
+msgid "On Sales"
+msgstr "حراج"
+
+#: ../js_composer/shortcodes/tab-category.php:557
+msgid "On sales"
+msgstr "حراج"
+
+#: ../js_composer/shortcodes/products_sidebar.php:18
+msgid "NEW PRODUCTS"
+msgstr "محصولات جدید"
+
+#: ../post-types/post-types.php:148
+msgid "View Colection"
+msgstr "نمایش مجموعه"
+
+#: ../js_composer/shortcodes/look_books.php:299
+msgid "View All"
+msgstr "نمایش همه"
+
+#: ../js_composer/shortcodes/brand.php:583
+msgid "shop this brand"
+msgstr "فروشگاه این برند"
+
+#: ../js_composer/shortcodes/brand.php:617 ../js_composer/shortcodes/brand.php:617
+msgid "View More"
+msgstr "بیشتر"
+
+#: ../js_composer/shortcodes/colection.php:334 ..
+#: js_composer/shortcodes/colection.php:347
+msgid "View Collection"
+msgstr "نمایش مجموعه"
+
+#: ../js_composer/shortcodes/categories.php:207
+msgid "shop now"
+msgstr "فروشگاه"
+
+#: ../js_composer/shortcodes/box_product.php:666 ..
+#: js_composer/shortcodes/popular-cat.php:190
+msgid "View all"
+msgstr "نمایش همه"

@@ -1,0 +1,310 @@
+@font-face {
+    font-family: 'p30';
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/eot/IRANSansWeb_Bold.eot');
+    src: url('fonts/eot/IRANSansWeb_Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('fonts/woff2/IRANSansWeb_Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+         url('fonts/woff/IRANSansWeb_Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/ttf/IRANSansWeb_Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'p30';
+    font-style: normal;
+    font-weight: 500;
+    src: url('fonts/eot/IRANSansWeb_Medium.eot');
+    src: url('fonts/eot/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('fonts/woff2/IRANSansWeb_Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+         url('fonts/woff/IRANSansWeb_Medium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/ttf/IRANSansWeb_Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'p30';
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/eot/IRANSansWeb_Light.eot');
+    src: url('fonts/eot/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('fonts/woff2/IRANSansWeb_Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+         url('fonts/woff/IRANSansWeb_Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/ttf/IRANSansWeb_Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'p30';
+    font-style: normal;
+    font-weight: 200;
+    src: url('fonts/eot/IRANSansWeb_UltraLight.eot');
+    src: url('fonts/eot/IRANSansWeb_UltraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('fonts/woff2/IRANSansWeb_UltraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+         url('fonts/woff/IRANSansWeb_UltraLight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/ttf/IRANSansWeb_UltraLight.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'p30';
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/eot/IRANSansWeb.eot');
+    src: url('fonts/eot/IRANSansWeb.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('fonts/woff2/IRANSansWeb.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+         url('fonts/woff/IRANSansWeb.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/ttf/IRANSansWeb.ttf') format('truetype');
+}
+
+
+p,h1,h2,h3,h4,h5,h6,ul,div,tr,td,input,.menu-title,.sansFont,.module h3.modtitle,.wellcomesj h1 span,.wellcomesj a.readmore.gray , select{
+font-family: "p30" !important;
+}
+
+
+
+.vc_row.wpb_row.vc_row-fluid.vc_custom_1440045151377.vc_row-has-fill {
+    right: auto !important;
+    left: 74.5px !important
+}
+
+
+.top-bar-menu > li:first-child > a {
+    padding-right: 0 !important;
+    padding-left: 10px !important;
+}
+
+.top-bar-menu > li > a {
+    border-left: 1px solid #e0e0e0 !important;
+    border-right: none !important;
+}
+
+.header.style1 .top-bar-menu > li > a .fa {
+    padding-left: 5px !important;
+    padding-right: 0 !important;
+}
+
+.top-bar-menu > li.menu-item-has-children > a::after {
+    float: right !important;
+    margin-right: 0 !important;
+    margin-left: 10px !important;
+}
+
+.trademark-product .info-product {
+    padding-right: 20px !important;
+    padding-left: 0 !important;
+}
+
+.footer-menu-list li {
+    padding: 0 5px 0 7px;
+    border-left: 1px solid #06c !important;
+    border-right: none !important;
+}
+
+.trademark-info .trademark-desc {
+    text-align: justify !important;
+}
+
+.widget_categories ul>li>a:before {
+    content: "\f104" !important;
+    padding-left: 12px !important;
+    padding-right: 0 !important;
+}
+
+span.notify-left {
+    left: 25px !important;
+    right: auto !important;
+}
+
+.trademark-list li {
+    padding: 0 5px 0 7px !important;
+    border-left: 1px solid #666 !important;
+    border-right: none !important;
+}
+
+#yith-quick-view-close {
+    left: 5px !important;
+    right: auto !important;
+}
+
+.woocommerce .woocommerce-tabs .panel {
+    text-align: justify !important;
+}
+
+.summary.entry-summary p {
+    text-align: justify !important;
+}
+
+.widget_product_categories .children li a:before {
+    content: "\f0d9" !important;
+}
+
+.view-product-list .display-product-option {
+    float: left !important;
+}
+
+.woocommerce.wpb-js-composer h1 {
+    text-align: right !important;
+}
+.navigation-main-menu > li > a {
+    border-left: 1px solid #cacaca !important;
+    border-right: none !important;
+}
+
+.content-text.entry-content.clearfix > p {
+    text-align: justify !important;
+}
+
+.woocommerce-page table.cart td.actions .coupon {
+    float: right !important;
+}
+
+.woocommerce input.button {
+    float: left !important;
+}
+
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+    float: right !important;
+    margin: 0 0px 0 4px !important;
+}
+
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+    float: left !important;
+}
+
+.woocommerce table.shop_table td {
+    text-align: right !important;
+}
+
+.woocommerce-checkout #payment ul.payment_methods li {
+    text-align: right !important;
+}
+
+.woocommerce-checkout #payment div.payment_box::before {
+    right: 0 !important;
+    margin: -1em 2em 0 0 !important;
+    left: auto !important;
+}
+
+.woocommerce-error::before, .woocommerce-info::before, .woocommerce-message::before {
+    right: 1.5em !important;
+    left: auto !important;
+}
+
+.woocommerce-error, .woocommerce-info, .woocommerce-message {
+    padding: 1em 3.5em 1em 2em !important;
+}
+
+.main-content article .entry-content {
+    text-align: justify !important;
+}
+
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register {
+    text-align: right !important;
+}
+
+#yith-quick-view-content div.summary {
+    float: left !important;
+}
+
+.navigation-main-menu > li > a {
+    font-family: 'p30' !important;
+}
+
+.widget_nav_menu ul > li > a {
+    font-family: 'p30' !important;
+}
+
+.trademark-list a {
+    font-family: 'p30' !important;
+}
+
+.navigation-main-menu ul.sub-menu > li > a {
+    font-family: p30 !important;
+}
+
+.main-header .shopping-cart-box a.cart-link {
+    text-align: right !important;
+    padding: 0px 15px 2px 73px !important;
+}
+
+.product-list li .add-to-cart a {
+    padding-left: 0 !important;
+    padding-right: 40px !important;
+}
+
+.product-list.list .add-to-cart {
+    padding-left: 15px !important;
+    padding-right: 0 !important;
+}
+.woocommerce div.product form.cart .button::before {
+    float: right !important;
+    margin-left: 15px !important;
+    margin-right: auto !important;
+}
+
+.cart-block .cart-block-content .toal-cart {
+    text-align: right !important;
+}
+
+
+.cart-block .cart-block-content .pull-right {
+    float: left !important;
+}
+
+.cart-block .cart-block-content .cart-buttons a {
+    float: left !important;
+}
+
+.brand-showcase-box .brand-showcase-logo .owl-item:last-child {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.trademark-info .trademark-link::after {
+    content: "\f0d9" !important;
+    padding-right: 12px !important;
+    padding-left: 0 !important;
+}
+
+.cate-box .cate-link {
+    padding: 0 9px 0 4px !important;
+}
+
+.woocommerce .widget_price_filter .price_slider_amount .button {
+    float: left !important;
+}
+
+element {}.testimonial > p {
+    text-align: justify !important;
+}
+
+
+.widget-footer-payment .textwidget {
+    margin: 10px 200px 30px 0 !important;
+}
+
+.widget-footer-payment .woocommerce img, .woocommerce-page img {
+    margin-right: 20px !important;
+    margin-left: auto !important;
+}
+.widget-footer-payment .introduce-title {
+    margin-bottom: -40px !important;
+    margin-top: 25px !important;
+}
+
+.widget-footer-payment {
+    border-top: 1px solid #E1E1E1 !important;
+    border-bottom: 1px solid #E1E1E1 !important;
+}
+
+#introduce-box {
+    margin-bottom: 30px !important;
+}
+
+.widget_kt_seo_keyword {
+    margin-top: 30px !important;
+}
+
+.products-block .products-block-right {
+    margin-left: 0px !important;
+    margin-right: 105px !important;
+}
+
+.box-vertical-megamenus .all-category span:before {
+    margin-left: 20px !important;
+    margin-right: auto !important;
+}
